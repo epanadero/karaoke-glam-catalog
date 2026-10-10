@@ -1,12 +1,8 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-09T17:50:05.760Z",
-  "totalSongs": 643,
+  "generatedAt": "2026-10-10T15:51:54.012Z",
+  "totalSongs": 663,
   "songs": [
-    {
-      "title": "La Casa AzulLa Revolución Sexual",
-      "artist": ""
-    },
     {
       "title": "Here Without You",
       "artist": "3 Doors Down"
@@ -14,10 +10,6 @@
     {
       "title": "What's Up",
       "artist": "4 Non Blondes"
-    },
-    {
-      "title": "La Oreja De Van Gogh",
-      "artist": "20 de enero"
     },
     {
       "title": "Say Something",
@@ -32,15 +24,7 @@
       "artist": "ABBA"
     },
     {
-      "title": "Dancing Queen",
-      "artist": "ABBA"
-    },
-    {
       "title": "Gimme! Gimme! Gimme! (A Man After Midnight)",
-      "artist": "ABBA"
-    },
-    {
-      "title": "Mamma Mia",
       "artist": "ABBA"
     },
     {
@@ -82,6 +66,10 @@
     {
       "title": "I Don't Want To Miss A Thing",
       "artist": "Aerosmith"
+    },
+    {
+      "title": "Superestrella",
+      "artist": "Aitana"
     },
     {
       "title": "Faded",
@@ -132,7 +120,7 @@
       "artist": "Alejandro Sanz"
     },
     {
-      "title": "Corazón Partío",
+      "title": "Cuando Nadie me Ve",
       "artist": "Alejandro Sanz"
     },
     {
@@ -140,11 +128,11 @@
       "artist": "Alejandro Sanz"
     },
     {
-      "title": "Y Si Fuera Ella",
+      "title": "Quisiera Ser",
       "artist": "Alejandro Sanz"
     },
     {
-      "title": "Y si fuera ella",
+      "title": "Y Si Fuera Ella",
       "artist": "Alejandro Sanz"
     },
     {
@@ -222,14 +210,6 @@
     {
       "title": "Sin Ti No Soy Nada",
       "artist": "Amaral"
-    },
-    {
-      "title": "Los Manolos",
-      "artist": "Amigos Para Siempre"
-    },
-    {
-      "title": "Thalia",
-      "artist": "Amor a la mexicana"
     },
     {
       "title": "Back To Black",
@@ -376,14 +356,6 @@
       "artist": "Backstreet Boys"
     },
     {
-      "title": "Enrique Iglesias",
-      "artist": "Bailamos"
-    },
-    {
-      "title": "Sergio Dalma",
-      "artist": "Bailar Pegados"
-    },
-    {
       "title": "Copacabana",
       "artist": "Barry Manilow"
     },
@@ -394,6 +366,14 @@
     {
       "title": "Stand By Me",
       "artist": "Ben E. King"
+    },
+    {
+      "title": "Beautiful Things",
+      "artist": "Benson Boone"
+    },
+    {
+      "title": "Como Un Vagabundo",
+      "artist": "Bertin Osborne"
     },
     {
       "title": "If I Were A Boy",
@@ -472,6 +452,10 @@
       "artist": "Camilo Sesto"
     },
     {
+      "title": "Getsemani",
+      "artist": "Camilo Sesto"
+    },
+    {
       "title": "Melina",
       "artist": "Camilo Sesto"
     },
@@ -480,11 +464,7 @@
       "artist": "Camilo Sesto"
     },
     {
-      "title": "Vivir así es morir de amor",
-      "artist": "Camilo Sesto"
-    },
-    {
-      "title": "Vivir así es morir de amor",
+      "title": "Vivir asi es morir de amor",
       "artist": "Camilo Sesto"
     },
     {
@@ -556,10 +536,6 @@
       "artist": "Chayanne"
     },
     {
-      "title": "Dejaría Todo",
-      "artist": "Chayanne"
-    },
-    {
       "title": "Provócame",
       "artist": "Chayanne"
     },
@@ -572,10 +548,6 @@
       "artist": "Chenoa"
     },
     {
-      "title": "Seguridad Social",
-      "artist": "Chiquilla"
-    },
-    {
       "title": "Tennessee Whiskey",
       "artist": "Chris Stapleton"
     },
@@ -586,10 +558,6 @@
     {
       "title": "Bubbly",
       "artist": "Colbie Caillat"
-    },
-    {
-      "title": "Bertin Osborne",
-      "artist": "Como Un Vagabundo"
     },
     {
       "title": "Heathe",
@@ -606,10 +574,6 @@
     {
       "title": "Azul",
       "artist": "Cristian Castro"
-    },
-    {
-      "title": "Alejandro Sanz",
-      "artist": "Cuando Nadie me Ve"
     },
     {
       "title": "Best Part",
@@ -708,10 +672,6 @@
       "artist": "Duncan Dhu"
     },
     {
-      "title": "En Algun Lugar",
-      "artist": "Duncan Dhu"
-    },
-    {
       "title": "Esos Ojos Negros",
       "artist": "Duncan Dhu"
     },
@@ -732,6 +692,10 @@
       "artist": "Dúo dinámico"
     },
     {
+      "title": "Suspiros De España",
+      "artist": "Dyango"
+    },
+    {
       "title": "September",
       "artist": "Earth, Wind & Fire"
     },
@@ -750,6 +714,22 @@
     {
       "title": "Thinking Out Loud",
       "artist": "Ed Sheeran"
+    },
+    {
+      "title": "Ahora",
+      "artist": "Efecto Mariposa"
+    },
+    {
+      "title": "El Mundo",
+      "artist": "Efecto Mariposa"
+    },
+    {
+      "title": "Por Quererte (Versión Karaoke)",
+      "artist": "Efecto Mariposa"
+    },
+    {
+      "title": "No Me Crees",
+      "artist": "Efecto Mariposa & Javier Ojeda"
     },
     {
       "title": "Besos",
@@ -780,11 +760,23 @@
       "artist": "El canto del loco, Amaia Montero"
     },
     {
-      "title": "Georgie Dann",
-      "artist": "El Chiringuito"
+      "title": "Toro",
+      "artist": "El Columpio Asesino"
+    },
+    {
+      "title": "Nunca Volverá",
+      "artist": "El Sueño De Morfeo"
+    },
+    {
+      "title": "Para toda la vida",
+      "artist": "El sueño de Morfeo"
     },
     {
       "title": "Como un burro amarrado en la puerta del baile",
+      "artist": "El ultimo de la fila"
+    },
+    {
+      "title": "Querida milagros",
       "artist": "El ultimo de la fila"
     },
     {
@@ -808,8 +800,8 @@
       "artist": "Ellie Goulding"
     },
     {
-      "title": "Can't Help Falling In Love",
-      "artist": "Elvis Presley"
+      "title": "Suavemente",
+      "artist": "Elvis Crespo"
     },
     {
       "title": "Can't Help Falling In Love",
@@ -828,11 +820,19 @@
       "artist": "Emeli Sandé"
     },
     {
+      "title": "Bailamos",
+      "artist": "Enrique Iglesias"
+    },
+    {
       "title": "Experiencia Religiosa",
       "artist": "Enrique Iglesias"
     },
     {
       "title": "Si Tu Te Vas",
+      "artist": "Enrique Iglesias"
+    },
+    {
+      "title": "Subeme la radio",
       "artist": "Enrique Iglesias"
     },
     {
@@ -858,10 +858,6 @@
     {
       "title": "Cosas de la vida",
       "artist": "Eros Ramazzotti"
-    },
-    {
-      "title": "Radio Futura",
-      "artist": "Escuela De Calor"
     },
     {
       "title": "Como Camaron",
@@ -972,15 +968,11 @@
       "artist": "Frank Sinatra"
     },
     {
-      "title": "Fly Me To The Moon",
-      "artist": "Frank Sinatra"
-    },
-    {
       "title": "My Way",
       "artist": "Frank Sinatra"
     },
     {
-      "title": "My Way",
+      "title": "Strangers in the Night",
       "artist": "Frank Sinatra"
     },
     {
@@ -1008,8 +1000,8 @@
       "artist": "George Michael"
     },
     {
-      "title": "Camilo Sesto",
-      "artist": "Getsemani"
+      "title": "El Chiringuito",
+      "artist": "Georgie Dann"
     },
     {
       "title": "Heat Waves",
@@ -1112,10 +1104,6 @@
       "artist": "Heroes Del Silencio"
     },
     {
-      "title": "Entre Dos Tierras",
-      "artist": "Héroes Del Silencio"
-    },
-    {
       "title": "Devuelveme A Mi Chica",
       "artist": "Hombres G"
     },
@@ -1204,10 +1192,6 @@
       "artist": "Jarabe de palo"
     },
     {
-      "title": "Grita",
-      "artist": "Jarabe de palo"
-    },
-    {
       "title": "I Won't Give Up",
       "artist": "Jason Mraz"
     },
@@ -1284,10 +1268,6 @@
       "artist": "Jose Luis Perales"
     },
     {
-      "title": "Un velero llamado Libertad",
-      "artist": "Jose Luis Perales"
-    },
-    {
       "title": "Dueño De Nada",
       "artist": "Jose Luis Rodriguez (el Puma)"
     },
@@ -1340,15 +1320,11 @@
       "artist": "Julieta Venegas"
     },
     {
-      "title": "Eres Para Mi",
-      "artist": "Julieta Venegas"
-    },
-    {
       "title": "Limón y sal",
       "artist": "Julieta Venegas"
     },
     {
-      "title": "Limón y sal",
+      "title": "Me Voy",
       "artist": "Julieta Venegas"
     },
     {
@@ -1412,8 +1388,16 @@
       "artist": "Kelly Clarkson"
     },
     {
-      "title": "Jarabe De Palo",
-      "artist": "La Flaca"
+      "title": "I Was Made For Lovin' You",
+      "artist": "Kiss"
+    },
+    {
+      "title": "Sure Know Something",
+      "artist": "Kiss"
+    },
+    {
+      "title": "La Revolución Sexual",
+      "artist": "La Casa Azul"
     },
     {
       "title": "Cuando Brille El Sol",
@@ -1428,8 +1412,16 @@
       "artist": "La Guardia"
     },
     {
-      "title": "El fin del mundo (Karaoke con letra)",
+      "title": "El fin del mundo",
       "artist": "La La Love You"
+    },
+    {
+      "title": "4 Elementos",
+      "artist": "La Musicalite"
+    },
+    {
+      "title": "20 de enero",
+      "artist": "La Oreja De Van Gogh"
     },
     {
       "title": "El 28",
@@ -1536,12 +1528,16 @@
       "artist": "Laura Pausini"
     },
     {
-      "title": "Bleeding Love",
-      "artist": "Leona Lewis"
+      "title": "Como si fueras a morir mañana",
+      "artist": "Leiva"
     },
     {
-      "title": "Passenger",
-      "artist": "Let Her Go"
+      "title": "Caida libre",
+      "artist": "Leiva, Robe"
+    },
+    {
+      "title": "Bleeding Love",
+      "artist": "Leona Lewis"
     },
     {
       "title": "Before You Go",
@@ -1592,10 +1588,6 @@
       "artist": "Loquillo Y Los Trogloditas"
     },
     {
-      "title": "Feo Fuerte Y Formal",
-      "artist": "Loquillo Y Los Trogloditas"
-    },
-    {
       "title": "Emborracharme",
       "artist": "Lori Meyers"
     },
@@ -1606,6 +1598,10 @@
     {
       "title": "Macarena",
       "artist": "Los Del Rio"
+    },
+    {
+      "title": "Amigos Para Siempre",
+      "artist": "Los Manolos"
     },
     {
       "title": "Promesas que no valen nada",
@@ -1644,10 +1640,6 @@
       "artist": "Los Rodríguez"
     },
     {
-      "title": "Sin documentos",
-      "artist": "Los Rodríguez"
-    },
-    {
       "title": "Adios Papa",
       "artist": "Los Ronaldos"
     },
@@ -1670,10 +1662,6 @@
     {
       "title": "Mambo No 5",
       "artist": "Lou Bega"
-    },
-    {
-      "title": "Despacito",
-      "artist": "Luis Fonsi, Daddy Yankee ft. Justin Bieber"
     },
     {
       "title": "Despacito",
@@ -1792,10 +1780,6 @@
       "artist": "Manolo Escobar"
     },
     {
-      "title": "Porompompero",
-      "artist": "Manolo Escobar"
-    },
-    {
       "title": "Pájaros De Barro",
       "artist": "Manolo Garcia"
     },
@@ -1848,10 +1832,6 @@
       "artist": "Marshmello, Anne Marie"
     },
     {
-      "title": "Julieta Venegas",
-      "artist": "Me Voy"
-    },
-    {
       "title": "Bailando salsa",
       "artist": "Mecano"
     },
@@ -1900,6 +1880,26 @@
       "artist": "Mena Massoud, Naomi Scott"
     },
     {
+      "title": "Enter Sandman",
+      "artist": "Metallica"
+    },
+    {
+      "title": "Master of Puppets",
+      "artist": "Metallica"
+    },
+    {
+      "title": "Nothing Else Matters",
+      "artist": "Metallica"
+    },
+    {
+      "title": "The Unforgiven",
+      "artist": "Metallica"
+    },
+    {
+      "title": "Whiskey in the Jar",
+      "artist": "Metallica"
+    },
+    {
       "title": "Billie Jean",
       "artist": "Michael Jackson"
     },
@@ -1913,10 +1913,6 @@
     },
     {
       "title": "Flowers",
-      "artist": "Miley Cyrus"
-    },
-    {
-      "title": "Party In The USA",
       "artist": "Miley Cyrus"
     },
     {
@@ -1948,16 +1944,24 @@
       "artist": "Monica Naranjo & Rocio Jurado"
     },
     {
-      "title": "Como Te Atreves LETRA (INSTRUMENTAL KARAOKE) ISRC ES54I0328173",
+      "title": "Como Te Atreves",
       "artist": "Morat"
+    },
+    {
+      "title": "Yo Contigo Tu Conmigo",
+      "artist": "Morat ft. Andrés Soler"
     },
     {
       "title": "Feeling Good",
       "artist": "Muse"
     },
     {
-      "title": "La Chica De Ayer",
-      "artist": "Nacha Pop"
+      "title": "Hysteria",
+      "artist": "Muse"
+    },
+    {
+      "title": "Time Is Running Out",
+      "artist": "Muse"
     },
     {
       "title": "La Chica De Ayer",
@@ -2012,10 +2016,6 @@
       "artist": "Nino Bravo"
     },
     {
-      "title": "Un Beso Y Una Flor",
-      "artist": "Nino Bravo"
-    },
-    {
       "title": "Come As You Are",
       "artist": "Nirvana"
     },
@@ -2026,10 +2026,6 @@
     {
       "title": "Smells Like Teen Spirit",
       "artist": "Nirvana"
-    },
-    {
-      "title": "Wonderwall",
-      "artist": "Oasis"
     },
     {
       "title": "Wonderwall",
@@ -2084,6 +2080,10 @@
       "artist": "Paramore"
     },
     {
+      "title": "Let Her Go",
+      "artist": "Passenger"
+    },
+    {
       "title": "El Ultimo Adios",
       "artist": "Paulina Rubio"
     },
@@ -2108,7 +2108,23 @@
       "artist": "Pimpinela"
     },
     {
+      "title": "Another One Bites The Dust",
+      "artist": "Queen"
+    },
+    {
       "title": "Bohemian Rhapsody",
+      "artist": "Queen"
+    },
+    {
+      "title": "Crazy Little Thing Called Love",
+      "artist": "Queen"
+    },
+    {
+      "title": "Don't Stop Me Now",
+      "artist": "Queen"
+    },
+    {
+      "title": "I Want To Break Free",
       "artist": "Queen"
     },
     {
@@ -2116,15 +2132,35 @@
       "artist": "Queen"
     },
     {
+      "title": "Radio Ga Ga",
+      "artist": "Queen"
+    },
+    {
+      "title": "Somebody To Love",
+      "artist": "Queen"
+    },
+    {
+      "title": "The Show Must Go On",
+      "artist": "Queen"
+    },
+    {
+      "title": "We Are The Champions",
+      "artist": "Queen"
+    },
+    {
+      "title": "We Will Rock You",
+      "artist": "Queen"
+    },
+    {
       "title": "Under Pressure",
       "artist": "Queen & David Bowie"
     },
     {
-      "title": "Alejandro Sanz",
-      "artist": "Quisiera Ser"
+      "title": "Enamorado De La Moda Juvenil",
+      "artist": "Radio Futura"
     },
     {
-      "title": "Enamorado De La Moda Juvenil",
+      "title": "Escuela De Calor",
       "artist": "Radio Futura"
     },
     {
@@ -2252,11 +2288,15 @@
       "artist": "Sean Paul"
     },
     {
-      "title": "A Tontas Y A Locas LETRA (INSTRUMENTAL KARAOKE)",
+      "title": "A Tontas Y A Locas",
       "artist": "Seguridad Social"
     },
     {
       "title": "Acuarela",
+      "artist": "Seguridad Social"
+    },
+    {
+      "title": "Chiquilla",
       "artist": "Seguridad Social"
     },
     {
@@ -2270,6 +2310,10 @@
     {
       "title": "Quiero tener tu presencia",
       "artist": "Seguridad Social"
+    },
+    {
+      "title": "Bailar Pegados",
+      "artist": "Sergio Dalma"
     },
     {
       "title": "Esa chica es mía",
@@ -2328,24 +2372,12 @@
       "artist": "Simple Plan"
     },
     {
+      "title": "Muse",
+      "artist": "Starlight"
+    },
+    {
       "title": "I Just Called To Say I Love You",
       "artist": "Stevie Wonder"
-    },
-    {
-      "title": "Frank Sinatra",
-      "artist": "Strangers in the Night"
-    },
-    {
-      "title": "Elvis Crespo",
-      "artist": "Suavemente"
-    },
-    {
-      "title": "Enrique Iglesias",
-      "artist": "Súbeme la radio"
-    },
-    {
-      "title": "Dyango",
-      "artist": "Suspiros De España"
     },
     {
       "title": "I See The Light",
@@ -2374,6 +2406,10 @@
     {
       "title": "You Belong With Me (Backing Track) (1080p_25fps_H264-128kbit_AAC)",
       "artist": "Taylor Swift"
+    },
+    {
+      "title": "Amor a la mexicana",
+      "artist": "Thalia"
     },
     {
       "title": "Here Comes The Sun",
@@ -2420,10 +2456,6 @@
       "artist": "The Cranberries"
     },
     {
-      "title": "Zombie",
-      "artist": "The Cranberries"
-    },
-    {
       "title": "A Million Dreams",
       "artist": "The Greatest Showman"
     },
@@ -2449,6 +2481,14 @@
     },
     {
       "title": "Every Breath You Take",
+      "artist": "The Police"
+    },
+    {
+      "title": "Message In A Bottle",
+      "artist": "The Police"
+    },
+    {
+      "title": "Roxanne",
       "artist": "The Police"
     },
     {
@@ -2496,8 +2536,48 @@
       "artist": "UB40"
     },
     {
+      "title": "Europa",
+      "artist": "Ultraligera"
+    },
+    {
+      "title": "Matanza En El Hotel",
+      "artist": "Ultraligera"
+    },
+    {
+      "title": "Mirame",
+      "artist": "Ultraligera"
+    },
+    {
+      "title": "Tú no lo Ves",
+      "artist": "Ultraligera"
+    },
+    {
+      "title": "Muse",
+      "artist": "Uprising"
+    },
+    {
       "title": "Riptide",
       "artist": "Vance Joy"
+    },
+    {
+      "title": "23 de Junio",
+      "artist": "Vetusta Morla"
+    },
+    {
+      "title": "Copenhague",
+      "artist": "Vetusta Morla"
+    },
+    {
+      "title": "Un dia en el Mundo",
+      "artist": "Vetusta Morla"
+    },
+    {
+      "title": "Valiente",
+      "artist": "Vetusta Morla"
+    },
+    {
+      "title": "Maldita Dulzura",
+      "artist": "Vetusta Morla & Carla Morrison"
     },
     {
       "title": "Mujeres Divinas",
@@ -2556,10 +2636,6 @@
       "artist": "Wilfrido Vargas"
     },
     {
-      "title": "Karaoke. Morat ft. Andrés Soler",
-      "artist": "Yo Contigo Tu Conmigo"
-    },
-    {
       "title": "I Like You So Much, You'll Know It",
       "artist": "Ysabelle"
     },
@@ -2574,6 +2650,10 @@
     {
       "title": "A Whole New World",
       "artist": "ZAYN, Zhavia Ward"
+    },
+    {
+      "title": "Solo quiero bailar",
+      "artist": "Zenttric"
     }
   ]
 }
