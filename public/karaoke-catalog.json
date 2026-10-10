@@ -1,0 +1,2579 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-10-09T17:50:05.760Z",
+  "totalSongs": 643,
+  "songs": [
+    {
+      "title": "La Casa AzulLa Revolución Sexual",
+      "artist": ""
+    },
+    {
+      "title": "Here Without You",
+      "artist": "3 Doors Down"
+    },
+    {
+      "title": "What's Up",
+      "artist": "4 Non Blondes"
+    },
+    {
+      "title": "La Oreja De Van Gogh",
+      "artist": "20 de enero"
+    },
+    {
+      "title": "Say Something",
+      "artist": "A Great Big World, Christina Aguilera"
+    },
+    {
+      "title": "Chiquitita",
+      "artist": "ABBA"
+    },
+    {
+      "title": "Dancing Queen",
+      "artist": "ABBA"
+    },
+    {
+      "title": "Dancing Queen",
+      "artist": "ABBA"
+    },
+    {
+      "title": "Gimme! Gimme! Gimme! (A Man After Midnight)",
+      "artist": "ABBA"
+    },
+    {
+      "title": "Mamma Mia",
+      "artist": "ABBA"
+    },
+    {
+      "title": "Mamma Mia",
+      "artist": "ABBA"
+    },
+    {
+      "title": "Dirty Deeds Done Dirt Cheap",
+      "artist": "ACDC"
+    },
+    {
+      "title": "Highway to Hell",
+      "artist": "ACDC"
+    },
+    {
+      "title": "It's a Long Way to the Top (If You Wanna Rock 'n' Roll)",
+      "artist": "ACDC"
+    },
+    {
+      "title": "You Shook Me All Night Long",
+      "artist": "ACDC"
+    },
+    {
+      "title": "Un Mechon De Su Cabello",
+      "artist": "Adamo"
+    },
+    {
+      "title": "Make You Feel My Love",
+      "artist": "Adele"
+    },
+    {
+      "title": "Rolling In The Deep",
+      "artist": "Adele"
+    },
+    {
+      "title": "Someone Like You",
+      "artist": "Adele"
+    },
+    {
+      "title": "I Don't Want To Miss A Thing",
+      "artist": "Aerosmith"
+    },
+    {
+      "title": "Faded",
+      "artist": "Alan Walker"
+    },
+    {
+      "title": "Ironic",
+      "artist": "Alanis Morissette"
+    },
+    {
+      "title": "Bailando",
+      "artist": "Alaska"
+    },
+    {
+      "title": "A Quien Le Importa",
+      "artist": "Alaska Y Dinarama"
+    },
+    {
+      "title": "Ni Tu Ni Nadie",
+      "artist": "Alaska Y Dinarama"
+    },
+    {
+      "title": "Rey del Glam",
+      "artist": "Alaska y Dinarama"
+    },
+    {
+      "title": "Te llegara una rosa",
+      "artist": "Alberto Cortez"
+    },
+    {
+      "title": "Caballero",
+      "artist": "Alejandro Fernandez"
+    },
+    {
+      "title": "Te Amare",
+      "artist": "Alejandro Fernandez"
+    },
+    {
+      "title": "Hoy Tengo Ganas De Ti",
+      "artist": "Alejandro Fernandez y Christina Aguilera"
+    },
+    {
+      "title": "Amiga Mia",
+      "artist": "Alejandro Sanz"
+    },
+    {
+      "title": "Corazon Partio",
+      "artist": "Alejandro Sanz"
+    },
+    {
+      "title": "Corazón Partío",
+      "artist": "Alejandro Sanz"
+    },
+    {
+      "title": "La Fuerza Del Corazon",
+      "artist": "Alejandro Sanz"
+    },
+    {
+      "title": "Y Si Fuera Ella",
+      "artist": "Alejandro Sanz"
+    },
+    {
+      "title": "Y si fuera ella",
+      "artist": "Alejandro Sanz"
+    },
+    {
+      "title": "How Far I'll Go",
+      "artist": "Alessia Cara"
+    },
+    {
+      "title": "A Gritos De Esperanza",
+      "artist": "Alex Ubago"
+    },
+    {
+      "title": "Que Pides Tu",
+      "artist": "Alex Ubago"
+    },
+    {
+      "title": "Sabes",
+      "artist": "Alex Ubago"
+    },
+    {
+      "title": "Sin miedo a nada Me muero por conocerte",
+      "artist": "Alex Ubago Amaia Montero"
+    },
+    {
+      "title": "Hallelujah",
+      "artist": "Alexandra Burke"
+    },
+    {
+      "title": "Girl On Fire",
+      "artist": "Alicia Keys"
+    },
+    {
+      "title": "If I Ain't Got You",
+      "artist": "Alicia Keys"
+    },
+    {
+      "title": "Juramento eterno de sal",
+      "artist": "Álvaro de Luna"
+    },
+    {
+      "title": "Levantaremos al sol",
+      "artist": "Álvaro de Luna"
+    },
+    {
+      "title": "El Mismo Sol",
+      "artist": "Alvaro Soler"
+    },
+    {
+      "title": "La Cintura",
+      "artist": "Alvaro Soler"
+    },
+    {
+      "title": "Sofia",
+      "artist": "Alvaro Soler"
+    },
+    {
+      "title": "Como Hablar",
+      "artist": "Amaral"
+    },
+    {
+      "title": "Días de Verano",
+      "artist": "Amaral"
+    },
+    {
+      "title": "El Universo Sobre Mi",
+      "artist": "Amaral"
+    },
+    {
+      "title": "Marta Sebas Guille Y Los Demas",
+      "artist": "Amaral"
+    },
+    {
+      "title": "Moriría por vos",
+      "artist": "Amaral"
+    },
+    {
+      "title": "Sin Ti No Soy Nada",
+      "artist": "Amaral"
+    },
+    {
+      "title": "Los Manolos",
+      "artist": "Amigos Para Siempre"
+    },
+    {
+      "title": "Thalia",
+      "artist": "Amor a la mexicana"
+    },
+    {
+      "title": "Back To Black",
+      "artist": "Amy Winehouse"
+    },
+    {
+      "title": "Derroch",
+      "artist": "Ana Belen"
+    },
+    {
+      "title": "Derroche",
+      "artist": "Ana Belen"
+    },
+    {
+      "title": "El hombre del piano",
+      "artist": "Ana Belen"
+    },
+    {
+      "title": "La puerta de Alcalá",
+      "artist": "Ana Belén Víctor Manuel"
+    },
+    {
+      "title": "Musica Ligera",
+      "artist": "Ana Mena"
+    },
+    {
+      "title": "Las 12",
+      "artist": "Ana Mena & Belinda"
+    },
+    {
+      "title": "Carita triste",
+      "artist": "Ana Mena Emilia"
+    },
+    {
+      "title": "I'm Outta Love",
+      "artist": "Anastacia"
+    },
+    {
+      "title": "Left Outside Alone",
+      "artist": "Anastacia"
+    },
+    {
+      "title": "Left Outside Alone (2)",
+      "artist": "Anastacia"
+    },
+    {
+      "title": "Paid My Dues",
+      "artist": "Anastacia"
+    },
+    {
+      "title": "Sick and Tired",
+      "artist": "Anastacia"
+    },
+    {
+      "title": "Rise Up",
+      "artist": "Andra Day"
+    },
+    {
+      "title": "Vivo Por Ella",
+      "artist": "Andrea Bocelli & Marta Sanchez"
+    },
+    {
+      "title": "Flaca",
+      "artist": "Andres Calamaro"
+    },
+    {
+      "title": "Tanto La Queria",
+      "artist": "Andy & Lucas"
+    },
+    {
+      "title": "Son De Amores",
+      "artist": "Andy Y Lucas"
+    },
+    {
+      "title": "Y En Tu Ventana",
+      "artist": "Andy Y Lucas"
+    },
+    {
+      "title": "Till I Met You",
+      "artist": "Angeline Quinto"
+    },
+    {
+      "title": "Cup",
+      "artist": "Anna Kendrick"
+    },
+    {
+      "title": "2002",
+      "artist": "Anne Marie"
+    },
+    {
+      "title": "No dudaría",
+      "artist": "Antonio Flores"
+    },
+    {
+      "title": "No dudaría (2)",
+      "artist": "Antonio Flores"
+    },
+    {
+      "title": "Siete Vidas",
+      "artist": "Antonio Flores"
+    },
+    {
+      "title": "Siete vidas (2)",
+      "artist": "Antonio Flores"
+    },
+    {
+      "title": "Adios España",
+      "artist": "Antonio Molina"
+    },
+    {
+      "title": "La venia bendita",
+      "artist": "Antonio Solis"
+    },
+    {
+      "title": "7 Rings",
+      "artist": "Ariana Grande"
+    },
+    {
+      "title": "Dangerous Woman",
+      "artist": "Ariana Grande"
+    },
+    {
+      "title": "One Last Time",
+      "artist": "Ariana Grande"
+    },
+    {
+      "title": "Almost Is Never Enough",
+      "artist": "Ariana Grande ft. Nathan Sykes"
+    },
+    {
+      "title": "Beauty & The Beast",
+      "artist": "Ariana Grande, John Legend"
+    },
+    {
+      "title": "How Far I'll Go",
+      "artist": "Auli'i Cravalho"
+    },
+    {
+      "title": "Bandido",
+      "artist": "Azucar Moreno"
+    },
+    {
+      "title": "I Want It That Way",
+      "artist": "Backstreet Boys"
+    },
+    {
+      "title": "Enrique Iglesias",
+      "artist": "Bailamos"
+    },
+    {
+      "title": "Sergio Dalma",
+      "artist": "Bailar Pegados"
+    },
+    {
+      "title": "Copacabana",
+      "artist": "Barry Manilow"
+    },
+    {
+      "title": "Malo",
+      "artist": "Bebe"
+    },
+    {
+      "title": "Stand By Me",
+      "artist": "Ben E. King"
+    },
+    {
+      "title": "If I Were A Boy",
+      "artist": "Beyonce"
+    },
+    {
+      "title": "bad guy",
+      "artist": "Billie Eilish"
+    },
+    {
+      "title": "idontwannabeyouanymore",
+      "artist": "Billie Eilish"
+    },
+    {
+      "title": "lovely",
+      "artist": "Billie Eilish"
+    },
+    {
+      "title": "Ocean Eyes",
+      "artist": "Billie Eilish"
+    },
+    {
+      "title": "Skinny Love",
+      "artist": "Birdy"
+    },
+    {
+      "title": "How You Like That",
+      "artist": "BLACKPINK"
+    },
+    {
+      "title": "Three Little Birds",
+      "artist": "Bob Marley"
+    },
+    {
+      "title": "Always",
+      "artist": "Bon Jovi"
+    },
+    {
+      "title": "Baby One More Time",
+      "artist": "Britney Spears"
+    },
+    {
+      "title": "Dancing On My Own",
+      "artist": "Calum Scott"
+    },
+    {
+      "title": "You Are The Reason",
+      "artist": "Calum Scott"
+    },
+    {
+      "title": "Summer",
+      "artist": "Calvin Harris"
+    },
+    {
+      "title": "One Kiss",
+      "artist": "Calvin Harris, Dua Lipa"
+    },
+    {
+      "title": "Volando Voy",
+      "artist": "Camaron De La Isla"
+    },
+    {
+      "title": "Cuando Zarpa El Amo",
+      "artist": "Camela"
+    },
+    {
+      "title": "Hablale De Mi",
+      "artist": "Camela"
+    },
+    {
+      "title": "Algo De Mi",
+      "artist": "Camilo Sesto"
+    },
+    {
+      "title": "Duda De Amor",
+      "artist": "Camilo Sesto"
+    },
+    {
+      "title": "Melina",
+      "artist": "Camilo Sesto"
+    },
+    {
+      "title": "Perdoname",
+      "artist": "Camilo Sesto"
+    },
+    {
+      "title": "Vivir así es morir de amor",
+      "artist": "Camilo Sesto"
+    },
+    {
+      "title": "Vivir así es morir de amor",
+      "artist": "Camilo Sesto"
+    },
+    {
+      "title": "Insoportable",
+      "artist": "Canto Del Loco"
+    },
+    {
+      "title": "Maria La Portuguesa",
+      "artist": "Carlos Cano"
+    },
+    {
+      "title": "Call Me Maybe",
+      "artist": "Carly Rae Jepsen"
+    },
+    {
+      "title": "Before He Cheats",
+      "artist": "Carrie Underwood"
+    },
+    {
+      "title": "Dama dama",
+      "artist": "Cecilia"
+    },
+    {
+      "title": "La Vida Es Un Carnaval",
+      "artist": "Celia Cruz"
+    },
+    {
+      "title": "My Heart Will Go On",
+      "artist": "Celine Dion"
+    },
+    {
+      "title": "Because You Loved Me",
+      "artist": "Céline Dion"
+    },
+    {
+      "title": "20 De Abril",
+      "artist": "Celtas Cortos"
+    },
+    {
+      "title": "Retales de una vida",
+      "artist": "Celtas Cortos"
+    },
+    {
+      "title": "Retales de una vida (2)",
+      "artist": "Celtas Cortos"
+    },
+    {
+      "title": "Cuéntame un cuento",
+      "artist": "Celtas cortos"
+    },
+    {
+      "title": "Cuéntame un cuento (2)",
+      "artist": "Celtas cortos"
+    },
+    {
+      "title": "Attention",
+      "artist": "Charlie Puth"
+    },
+    {
+      "title": "One Call Away",
+      "artist": "Charlie Puth"
+    },
+    {
+      "title": "We Don't Talk Anymore",
+      "artist": "Charlie Puth ft. Selena Gomez"
+    },
+    {
+      "title": "Dejaria Todo",
+      "artist": "Chayanne"
+    },
+    {
+      "title": "Dejaría Todo",
+      "artist": "Chayanne"
+    },
+    {
+      "title": "Provócame",
+      "artist": "Chayanne"
+    },
+    {
+      "title": "Torero",
+      "artist": "Chayanne"
+    },
+    {
+      "title": "Cuando Tu Vas",
+      "artist": "Chenoa"
+    },
+    {
+      "title": "Seguridad Social",
+      "artist": "Chiquilla"
+    },
+    {
+      "title": "Tennessee Whiskey",
+      "artist": "Chris Stapleton"
+    },
+    {
+      "title": "A Thousand Years",
+      "artist": "Christina Perri"
+    },
+    {
+      "title": "Bubbly",
+      "artist": "Colbie Caillat"
+    },
+    {
+      "title": "Bertin Osborne",
+      "artist": "Como Un Vagabundo"
+    },
+    {
+      "title": "Heathe",
+      "artist": "Conan Gray"
+    },
+    {
+      "title": "No Puedo Vivir Sin Ti",
+      "artist": "Coque Malla"
+    },
+    {
+      "title": "Perdoname",
+      "artist": "Coti, Nena Daconte"
+    },
+    {
+      "title": "Azul",
+      "artist": "Cristian Castro"
+    },
+    {
+      "title": "Alejandro Sanz",
+      "artist": "Cuando Nadie me Ve"
+    },
+    {
+      "title": "Best Part",
+      "artist": "Daniel Caesar ft. H.E.R."
+    },
+    {
+      "title": "Sabor De Amor",
+      "artist": "Danza Invisible"
+    },
+    {
+      "title": "Ave Maria",
+      "artist": "David Bisbal"
+    },
+    {
+      "title": "Buleria",
+      "artist": "David Bisbal"
+    },
+    {
+      "title": "Digale",
+      "artist": "David Bisbal"
+    },
+    {
+      "title": "Silencio",
+      "artist": "David Bisbal"
+    },
+    {
+      "title": "Heroes",
+      "artist": "David Bowie"
+    },
+    {
+      "title": "Life On Mars",
+      "artist": "David Bowie"
+    },
+    {
+      "title": "Space Oddity",
+      "artist": "David Bowie"
+    },
+    {
+      "title": "Starman",
+      "artist": "David Bowie"
+    },
+    {
+      "title": "Dile que la quiero",
+      "artist": "David Civera"
+    },
+    {
+      "title": "Que La Detengan",
+      "artist": "David Civera"
+    },
+    {
+      "title": "Titanium",
+      "artist": "David Guetta ft. Sia"
+    },
+    {
+      "title": "Heart Attack",
+      "artist": "Demi Lovato"
+    },
+    {
+      "title": "Skyscraper",
+      "artist": "Demi Lovato"
+    },
+    {
+      "title": "Stone Cold",
+      "artist": "Demi Lovato"
+    },
+    {
+      "title": "Hot Stuff",
+      "artist": "Donna Summer"
+    },
+    {
+      "title": "Devil came to me",
+      "artist": "Dover"
+    },
+    {
+      "title": "DJ",
+      "artist": "Dover"
+    },
+    {
+      "title": "Let me out",
+      "artist": "Dover"
+    },
+    {
+      "title": "serenade",
+      "artist": "Dover"
+    },
+    {
+      "title": "New Rules",
+      "artist": "Dua Lipa"
+    },
+    {
+      "title": "Cien Gaviotas",
+      "artist": "Duncan Dhu"
+    },
+    {
+      "title": "En Algun Lugar",
+      "artist": "Duncan Dhu"
+    },
+    {
+      "title": "En Algun Lugar",
+      "artist": "Duncan Dhu"
+    },
+    {
+      "title": "Esos Ojos Negros",
+      "artist": "Duncan Dhu"
+    },
+    {
+      "title": "Una calle de París",
+      "artist": "Duncan Dhu"
+    },
+    {
+      "title": "Arcade",
+      "artist": "Duncan Laurence"
+    },
+    {
+      "title": "Resistire",
+      "artist": "Duo Dinamico"
+    },
+    {
+      "title": "Quince años",
+      "artist": "Dúo dinámico"
+    },
+    {
+      "title": "September",
+      "artist": "Earth, Wind & Fire"
+    },
+    {
+      "title": "Perfect",
+      "artist": "Ed Sheeran"
+    },
+    {
+      "title": "Photograph",
+      "artist": "Ed Sheeran"
+    },
+    {
+      "title": "Shape Of You",
+      "artist": "Ed Sheeran"
+    },
+    {
+      "title": "Thinking Out Loud",
+      "artist": "Ed Sheeran"
+    },
+    {
+      "title": "Besos",
+      "artist": "El Canto Del Loco"
+    },
+    {
+      "title": "La Madre De Jose",
+      "artist": "El Canto Del Loco"
+    },
+    {
+      "title": "No Puedo Vivir Sin Ti",
+      "artist": "El Canto Del Loco"
+    },
+    {
+      "title": "Zapatillas",
+      "artist": "El Canto Del Loco"
+    },
+    {
+      "title": "A contracorriente",
+      "artist": "El Canto del Loco"
+    },
+    {
+      "title": "Son sueños",
+      "artist": "El Canto del loco"
+    },
+    {
+      "title": "Puede ser",
+      "artist": "El canto del loco, Amaia Montero"
+    },
+    {
+      "title": "Georgie Dann",
+      "artist": "El Chiringuito"
+    },
+    {
+      "title": "Como un burro amarrado en la puerta del baile",
+      "artist": "El ultimo de la fila"
+    },
+    {
+      "title": "Mr. Blue Sky",
+      "artist": "Electric Light Orchestra"
+    },
+    {
+      "title": "Amores De Barra",
+      "artist": "Ella Baila Sola"
+    },
+    {
+      "title": "Lo Echamos A Suertes",
+      "artist": "Ella Baila Sola"
+    },
+    {
+      "title": "Choosin' Texas",
+      "artist": "Ella Langley"
+    },
+    {
+      "title": "Love Me Like You Do",
+      "artist": "Ellie Goulding"
+    },
+    {
+      "title": "Can't Help Falling In Love",
+      "artist": "Elvis Presley"
+    },
+    {
+      "title": "Can't Help Falling In Love",
+      "artist": "Elvis Presley"
+    },
+    {
+      "title": "Don't Be Cruel",
+      "artist": "Elvis Presley"
+    },
+    {
+      "title": "Love Me Tender",
+      "artist": "Elvis Presley"
+    },
+    {
+      "title": "Read All About It Pt. III",
+      "artist": "Emeli Sandé"
+    },
+    {
+      "title": "Experiencia Religiosa",
+      "artist": "Enrique Iglesias"
+    },
+    {
+      "title": "Si Tu Te Vas",
+      "artist": "Enrique Iglesias"
+    },
+    {
+      "title": "Duele El Corazon",
+      "artist": "Enrique Iglesias & Wisin"
+    },
+    {
+      "title": "Bailando",
+      "artist": "Enrique Iglesias Descemer Bueno & Gente De Zona"
+    },
+    {
+      "title": "Hero",
+      "artist": "Enrique Inglesias"
+    },
+    {
+      "title": "Aunque Tu No Lo Sepas",
+      "artist": "Enrique Urquijo"
+    },
+    {
+      "title": "Wonderful Tonight",
+      "artist": "Eric Clapton"
+    },
+    {
+      "title": "Cosas de la vida",
+      "artist": "Eros Ramazzotti"
+    },
+    {
+      "title": "Radio Futura",
+      "artist": "Escuela De Calor"
+    },
+    {
+      "title": "Como Camaron",
+      "artist": "Estopa"
+    },
+    {
+      "title": "El Del Medio De Los Chichos",
+      "artist": "Estopa"
+    },
+    {
+      "title": "La Raja De Tu Falda",
+      "artist": "Estopa"
+    },
+    {
+      "title": "Tu Calorro",
+      "artist": "Estopa"
+    },
+    {
+      "title": "The Final Countdown",
+      "artist": "Europe"
+    },
+    {
+      "title": "Bring Me To Life",
+      "artist": "Evanescence"
+    },
+    {
+      "title": "Dramas Y Comedias",
+      "artist": "Fangoria"
+    },
+    {
+      "title": "Espectacular",
+      "artist": "Fangoria"
+    },
+    {
+      "title": "Espectacular (2)",
+      "artist": "Fangoria"
+    },
+    {
+      "title": "Antes De Que Cuente Diez",
+      "artist": "Fito Y Fitipaldis"
+    },
+    {
+      "title": "La Casa Por El Tejado",
+      "artist": "Fito Y Fitipaldis"
+    },
+    {
+      "title": "Me Equivocaria Otra Vez",
+      "artist": "Fito Y Fitipaldis"
+    },
+    {
+      "title": "Por La Boca Vive El Pez",
+      "artist": "Fito Y Fitipaldis"
+    },
+    {
+      "title": "Soldadito Marinero",
+      "artist": "Fito Y Fitipaldis"
+    },
+    {
+      "title": "All My Life",
+      "artist": "Foo Fighters"
+    },
+    {
+      "title": "Asking For A Friend",
+      "artist": "Foo Fighters"
+    },
+    {
+      "title": "Caught In The Echo",
+      "artist": "Foo Fighters"
+    },
+    {
+      "title": "Everlong",
+      "artist": "Foo Fighters"
+    },
+    {
+      "title": "The Pretender",
+      "artist": "Foo Fighters"
+    },
+    {
+      "title": "Today's Song",
+      "artist": "Foo Fighters"
+    },
+    {
+      "title": "I Want To Know What Love Is",
+      "artist": "Foreigner"
+    },
+    {
+      "title": "Remolino",
+      "artist": "Francisco Cespedes"
+    },
+    {
+      "title": "Vida Loca",
+      "artist": "Francisco Cespedes"
+    },
+    {
+      "title": "Centro De Gravedad Permanente",
+      "artist": "Franco Battiato"
+    },
+    {
+      "title": "Yo Quiero Verte Danzar",
+      "artist": "Franco Battiato"
+    },
+    {
+      "title": "A Mi Manera",
+      "artist": "Frank Sinatra"
+    },
+    {
+      "title": "Fly Me To The Moon",
+      "artist": "Frank Sinatra"
+    },
+    {
+      "title": "Fly Me To The Moon",
+      "artist": "Frank Sinatra"
+    },
+    {
+      "title": "My Way",
+      "artist": "Frank Sinatra"
+    },
+    {
+      "title": "My Way",
+      "artist": "Frank Sinatra"
+    },
+    {
+      "title": "Theme from New York, New York",
+      "artist": "Frank Sinatra"
+    },
+    {
+      "title": "For The First Time In Foreve",
+      "artist": "Frozen"
+    },
+    {
+      "title": "Let It Go",
+      "artist": "Frozen"
+    },
+    {
+      "title": "Into The Unknown",
+      "artist": "Frozen 2"
+    },
+    {
+      "title": "Shotgun",
+      "artist": "George Ezra"
+    },
+    {
+      "title": "Careless Whisper",
+      "artist": "George Michael"
+    },
+    {
+      "title": "Camilo Sesto",
+      "artist": "Getsemani"
+    },
+    {
+      "title": "Heat Waves",
+      "artist": "Glass Animals"
+    },
+    {
+      "title": "Mi Tierra",
+      "artist": "Gloria Estefan"
+    },
+    {
+      "title": "I Will Survive",
+      "artist": "Gloria Gaynor"
+    },
+    {
+      "title": "i hate u, i love u",
+      "artist": "gnash"
+    },
+    {
+      "title": "Iris",
+      "artist": "Goo Goo Dolls"
+    },
+    {
+      "title": "Summer Nights",
+      "artist": "Grease"
+    },
+    {
+      "title": "Basket Case",
+      "artist": "Green Day"
+    },
+    {
+      "title": "Boulevard Of Broken Dreams",
+      "artist": "Green Day"
+    },
+    {
+      "title": "Good Riddance (Time Of Your Life)",
+      "artist": "Green Day"
+    },
+    {
+      "title": "Holiday",
+      "artist": "Green Day"
+    },
+    {
+      "title": "Last Night on Earth",
+      "artist": "Green Day"
+    },
+    {
+      "title": "Wake Me Up When September Ends",
+      "artist": "Green Day"
+    },
+    {
+      "title": "When I Come Around",
+      "artist": "Green Day"
+    },
+    {
+      "title": "Dont Cry",
+      "artist": "Guns N Roses"
+    },
+    {
+      "title": "Knockin On Heavens Door",
+      "artist": "Guns N Roses"
+    },
+    {
+      "title": "November Rain",
+      "artist": "Guns N Roses"
+    },
+    {
+      "title": "Paradise City",
+      "artist": "Guns N Roses"
+    },
+    {
+      "title": "Sweet Child O Mine",
+      "artist": "Guns N Roses"
+    },
+    {
+      "title": "Welcome to the Jungle",
+      "artist": "Guns N Roses"
+    },
+    {
+      "title": "Yesterdays",
+      "artist": "Guns N Roses"
+    },
+    {
+      "title": "American Girls",
+      "artist": "Harry Styles"
+    },
+    {
+      "title": "Sign Of The Times",
+      "artist": "Harry Styles"
+    },
+    {
+      "title": "Watermelon Sugar",
+      "artist": "Harry Styles"
+    },
+    {
+      "title": "Entre Dos Tierras",
+      "artist": "Heroes Del Silencio"
+    },
+    {
+      "title": "Maldito Duende",
+      "artist": "Heroes Del Silencio"
+    },
+    {
+      "title": "Entre Dos Tierras",
+      "artist": "Héroes Del Silencio"
+    },
+    {
+      "title": "Devuelveme A Mi Chica",
+      "artist": "Hombres G"
+    },
+    {
+      "title": "El ataque de las chicas cocodrilo",
+      "artist": "Hombres G"
+    },
+    {
+      "title": "Voy A Pasármelo Bien",
+      "artist": "Hombres G"
+    },
+    {
+      "title": "The Reason",
+      "artist": "Hoobastank"
+    },
+    {
+      "title": "Take Me To Church",
+      "artist": "Hozier"
+    },
+    {
+      "title": "Believer",
+      "artist": "Imagine Dragons"
+    },
+    {
+      "title": "Demons",
+      "artist": "Imagine Dragons"
+    },
+    {
+      "title": "Así fue",
+      "artist": "Isabel Pantoja"
+    },
+    {
+      "title": "Se me enamora el alma",
+      "artist": "Isabel Pantoja"
+    },
+    {
+      "title": "El Baile",
+      "artist": "IZAL"
+    },
+    {
+      "title": "Pausa",
+      "artist": "IZAL"
+    },
+    {
+      "title": "Copacabana",
+      "artist": "Izal"
+    },
+    {
+      "title": "El Pozo",
+      "artist": "Izal"
+    },
+    {
+      "title": "La mujer de verde",
+      "artist": "Izal"
+    },
+    {
+      "title": "Que bien",
+      "artist": "Izal"
+    },
+    {
+      "title": "Say You Won't Let Go",
+      "artist": "James Arthur"
+    },
+    {
+      "title": "Bonito",
+      "artist": "Jarabe De Palo"
+    },
+    {
+      "title": "La Flaca",
+      "artist": "Jarabe De Palo"
+    },
+    {
+      "title": "Depende",
+      "artist": "Jarabe de Palo"
+    },
+    {
+      "title": "El Lado Oscuro",
+      "artist": "Jarabe de Palo"
+    },
+    {
+      "title": "Eso que tu me das",
+      "artist": "Jarabe de palo"
+    },
+    {
+      "title": "Grita",
+      "artist": "Jarabe de palo"
+    },
+    {
+      "title": "Grita",
+      "artist": "Jarabe de palo"
+    },
+    {
+      "title": "I Won't Give Up",
+      "artist": "Jason Mraz"
+    },
+    {
+      "title": "I'm Yours",
+      "artist": "Jason Mraz"
+    },
+    {
+      "title": "Flashligh",
+      "artist": "Jessie J"
+    },
+    {
+      "title": "Price Tag",
+      "artist": "Jessie J ft. B.o.B"
+    },
+    {
+      "title": "Bang Bang",
+      "artist": "Jessie J, Ariana Grande and Nicki Minaj"
+    },
+    {
+      "title": "Mediterraneo",
+      "artist": "Joan Manuel Serrat"
+    },
+    {
+      "title": "Penelope",
+      "artist": "Joan Manuel Serrat"
+    },
+    {
+      "title": "19 Dias Y 500 Noches",
+      "artist": "Joaquin Sabina"
+    },
+    {
+      "title": "Quien Me Ha Robado El Mes De Abril",
+      "artist": "Joaquin Sabina"
+    },
+    {
+      "title": "Y Sin Embargo",
+      "artist": "Joaquin Sabina"
+    },
+    {
+      "title": "Y nos dieron las 10",
+      "artist": "Joaquín Sabina"
+    },
+    {
+      "title": "Take Me Home, Country Roads",
+      "artist": "John Denver"
+    },
+    {
+      "title": "All Of Me",
+      "artist": "John Legend"
+    },
+    {
+      "title": "Imagin",
+      "artist": "John Lennon"
+    },
+    {
+      "title": "Imagine",
+      "artist": "John Lennon"
+    },
+    {
+      "title": "¿Y como es el",
+      "artist": "Jose Luis Perales"
+    },
+    {
+      "title": "Isabel",
+      "artist": "Jose Luis Perales"
+    },
+    {
+      "title": "Que canten los niños",
+      "artist": "Jose Luis Perales"
+    },
+    {
+      "title": "Un Velero Llamado Libertad",
+      "artist": "Jose Luis Perales"
+    },
+    {
+      "title": "Un velero llamado Libertad",
+      "artist": "Jose Luis Perales"
+    },
+    {
+      "title": "Dueño De Nada",
+      "artist": "Jose Luis Rodriguez (el Puma)"
+    },
+    {
+      "title": "La Pared",
+      "artist": "Jose Manuel Soto"
+    },
+    {
+      "title": "30 AÑOS",
+      "artist": "Jose Maria Napoleon"
+    },
+    {
+      "title": "El toro y la luna",
+      "artist": "Joselito"
+    },
+    {
+      "title": "You Raise Me Up",
+      "artist": "Josh Groban"
+    },
+    {
+      "title": "Don't Stop Believin'",
+      "artist": "Journey"
+    },
+    {
+      "title": "Así fue",
+      "artist": "Juan Gabriel"
+    },
+    {
+      "title": "Ojala Que Llueva Cafe",
+      "artist": "Juan Luis Guerra"
+    },
+    {
+      "title": "A Dios Le Pido",
+      "artist": "Juanes"
+    },
+    {
+      "title": "Es Por Ti",
+      "artist": "Juanes"
+    },
+    {
+      "title": "La Camisa Negra",
+      "artist": "Juanes"
+    },
+    {
+      "title": "Me Enamora",
+      "artist": "Juanes"
+    },
+    {
+      "title": "Eres Para Mi",
+      "artist": "Julieta Venegas"
+    },
+    {
+      "title": "Eres Para Mi",
+      "artist": "Julieta Venegas"
+    },
+    {
+      "title": "Limón y sal",
+      "artist": "Julieta Venegas"
+    },
+    {
+      "title": "Limón y sal",
+      "artist": "Julieta Venegas"
+    },
+    {
+      "title": "Me Voy",
+      "artist": "Julieta Venegas"
+    },
+    {
+      "title": "Hey!",
+      "artist": "Julio Iglesias"
+    },
+    {
+      "title": "Me olvidé de vivir",
+      "artist": "Julio Iglesias"
+    },
+    {
+      "title": "Soy Un Truhan",
+      "artist": "Julio Iglesias"
+    },
+    {
+      "title": "Love Yourself",
+      "artist": "Justin Bieber"
+    },
+    {
+      "title": "Sorry",
+      "artist": "Justin Bieber"
+    },
+    {
+      "title": "Beauty And A Beat",
+      "artist": "Justin Bieber and Nicki Minaj"
+    },
+    {
+      "title": "Baby",
+      "artist": "Justin Bieber ft. Ludacris"
+    },
+    {
+      "title": "Mix Karina",
+      "artist": "Karina"
+    },
+    {
+      "title": "Walking On Sunshine",
+      "artist": "Katrina and The Waves"
+    },
+    {
+      "title": "Internet Girl",
+      "artist": "KATSEYE"
+    },
+    {
+      "title": "Roar",
+      "artist": "Katy Perry"
+    },
+    {
+      "title": "California Gurls",
+      "artist": "Katy Perry ft. Snoop Dogg"
+    },
+    {
+      "title": "Somewhere Only We Know",
+      "artist": "Keane"
+    },
+    {
+      "title": "Because Of You",
+      "artist": "Kelly Clarkson"
+    },
+    {
+      "title": "Jarabe De Palo",
+      "artist": "La Flaca"
+    },
+    {
+      "title": "Cuando Brille El Sol",
+      "artist": "La Guardia"
+    },
+    {
+      "title": "El Mundo Tras El Cristal",
+      "artist": "La Guardia"
+    },
+    {
+      "title": "Mil calles llevan hacia ti",
+      "artist": "La Guardia"
+    },
+    {
+      "title": "El fin del mundo (Karaoke con letra)",
+      "artist": "La La Love You"
+    },
+    {
+      "title": "El 28",
+      "artist": "La Oreja De Van Gogh"
+    },
+    {
+      "title": "La Playa",
+      "artist": "La Oreja De Van Gogh"
+    },
+    {
+      "title": "Rosas",
+      "artist": "La Oreja De Van Gogh"
+    },
+    {
+      "title": "Dulce Locura",
+      "artist": "La Oreja de Van Gogh"
+    },
+    {
+      "title": "Jueves",
+      "artist": "La Oreja de Van Gogh"
+    },
+    {
+      "title": "Puedes contar conmigo",
+      "artist": "La Oreja de Van Gogh"
+    },
+    {
+      "title": "Cuentame al oído",
+      "artist": "La oreja de Van Gogh"
+    },
+    {
+      "title": "Muñeca de trapo",
+      "artist": "La oreja de Van Gogh"
+    },
+    {
+      "title": "Algo Mas",
+      "artist": "La Quinta Estación"
+    },
+    {
+      "title": "Daria",
+      "artist": "La Quinta Estación"
+    },
+    {
+      "title": "El Sol No Regresa",
+      "artist": "La Quinta Estación"
+    },
+    {
+      "title": "La Frase Tonta De La Semana",
+      "artist": "La Quinta Estación"
+    },
+    {
+      "title": "Me muero",
+      "artist": "La Quinta Estación"
+    },
+    {
+      "title": "Que te queria",
+      "artist": "La Quinta Estación"
+    },
+    {
+      "title": "Sueños Rotos",
+      "artist": "La Quinta Estación"
+    },
+    {
+      "title": "Tu Peor Error",
+      "artist": "La Quinta Estación"
+    },
+    {
+      "title": "Lobo hombre en Paris",
+      "artist": "La unión"
+    },
+    {
+      "title": "Maracaibo",
+      "artist": "La unión"
+    },
+    {
+      "title": "Jealous",
+      "artist": "Labrinth"
+    },
+    {
+      "title": "Need You Now",
+      "artist": "Lady A"
+    },
+    {
+      "title": "Always Remember Us This Way",
+      "artist": "Lady Gaga"
+    },
+    {
+      "title": "Bad Romance",
+      "artist": "Lady Gaga"
+    },
+    {
+      "title": "Shallow",
+      "artist": "Lady Gaga, Bradley Cooper"
+    },
+    {
+      "title": "Young And Beautiful",
+      "artist": "Lana Del Rey"
+    },
+    {
+      "title": "Te Estoy Amando Locamente",
+      "artist": "Las Grecas"
+    },
+    {
+      "title": "La Soledad",
+      "artist": "Laura Pausini"
+    },
+    {
+      "title": "Bleeding Love",
+      "artist": "Leona Lewis"
+    },
+    {
+      "title": "Passenger",
+      "artist": "Let Her Go"
+    },
+    {
+      "title": "Before You Go",
+      "artist": "Lewis Capaldi"
+    },
+    {
+      "title": "Someone You Loved",
+      "artist": "Lewis Capaldi"
+    },
+    {
+      "title": "Old Town Road",
+      "artist": "Lil Nas X ft. Billy Ray Cyrus"
+    },
+    {
+      "title": "Stuck On You",
+      "artist": "Lionel Richie"
+    },
+    {
+      "title": "Endless Love",
+      "artist": "Lionel Richie & Diana Ross"
+    },
+    {
+      "title": "Secret Love Song",
+      "artist": "Little Mix ft. Jason Derulo"
+    },
+    {
+      "title": "Ay Pena Penita Pena",
+      "artist": "Lola Flores"
+    },
+    {
+      "title": "Sarandonga",
+      "artist": "Lola Flores"
+    },
+    {
+      "title": "Sarandonga",
+      "artist": "Lolita"
+    },
+    {
+      "title": "Cadillac Solitario",
+      "artist": "Loquillo & Los Trogloditas"
+    },
+    {
+      "title": "Feo Fuerte Y Formal",
+      "artist": "Loquillo Y  Los Trogloditas"
+    },
+    {
+      "title": "El Rompeolas",
+      "artist": "Loquillo Y Los Trogloditas"
+    },
+    {
+      "title": "Feo Fuerte Y Formal",
+      "artist": "Loquillo Y Los Trogloditas"
+    },
+    {
+      "title": "Emborracharme",
+      "artist": "Lori Meyers"
+    },
+    {
+      "title": "Ay Que Dolor",
+      "artist": "Los Chunguitos"
+    },
+    {
+      "title": "Macarena",
+      "artist": "Los Del Rio"
+    },
+    {
+      "title": "Promesas que no valen nada",
+      "artist": "Los Piratas"
+    },
+    {
+      "title": "La Playa",
+      "artist": "Los Planetas"
+    },
+    {
+      "title": "Qué Puedo Hacer",
+      "artist": "Los Planetas"
+    },
+    {
+      "title": "Segundo Premio",
+      "artist": "Los Planetas"
+    },
+    {
+      "title": "Un Buen Día",
+      "artist": "Los Planetas"
+    },
+    {
+      "title": "Todos Los Besos",
+      "artist": "Los Rebujitos & El Reino De La Playa"
+    },
+    {
+      "title": "Mi Enfermedad",
+      "artist": "Los Rodriguez"
+    },
+    {
+      "title": "Sin documentos",
+      "artist": "Los Rodriguez"
+    },
+    {
+      "title": "Mucho mejor (Hace calor)",
+      "artist": "Los Rodríguez"
+    },
+    {
+      "title": "Sin documentos",
+      "artist": "Los Rodríguez"
+    },
+    {
+      "title": "Adios Papa",
+      "artist": "Los Ronaldos"
+    },
+    {
+      "title": "Agárrate a Mí María",
+      "artist": "Los Secretos"
+    },
+    {
+      "title": "Ojos de Gata",
+      "artist": "Los Secretos"
+    },
+    {
+      "title": "Pero A Tu Lado",
+      "artist": "Los Secretos"
+    },
+    {
+      "title": "Por La Calle Del Olvido",
+      "artist": "Los Secretos"
+    },
+    {
+      "title": "Mambo No 5",
+      "artist": "Lou Bega"
+    },
+    {
+      "title": "Despacito",
+      "artist": "Luis Fonsi, Daddy Yankee ft. Justin Bieber"
+    },
+    {
+      "title": "Despacito",
+      "artist": "Luis Fonsi, Daddy Yankee ft. Justin Bieber"
+    },
+    {
+      "title": "Hasta que me olvides",
+      "artist": "Luis Miguel"
+    },
+    {
+      "title": "La Bikina",
+      "artist": "Luis Miguel"
+    },
+    {
+      "title": "La Incondicional",
+      "artist": "Luis Miguel"
+    },
+    {
+      "title": "Si nos dejan",
+      "artist": "Luis Miguel"
+    },
+    {
+      "title": "7 Years",
+      "artist": "Lukas Graham"
+    },
+    {
+      "title": "Besare El Suelo",
+      "artist": "Luz Casal"
+    },
+    {
+      "title": "Loca",
+      "artist": "Luz Casal"
+    },
+    {
+      "title": "No Me Importa Nada",
+      "artist": "Luz Casal"
+    },
+    {
+      "title": "Piensa en mi",
+      "artist": "Luz Casal"
+    },
+    {
+      "title": "Un Año De Amor",
+      "artist": "Luz Casal"
+    },
+    {
+      "title": "La sopa fría",
+      "artist": "M Clan"
+    },
+    {
+      "title": "Magie Despierta",
+      "artist": "M-Clan"
+    },
+    {
+      "title": "Carolina",
+      "artist": "M-clan"
+    },
+    {
+      "title": "Llamando A La Tierra",
+      "artist": "M-clan"
+    },
+    {
+      "title": "Reckless",
+      "artist": "Madison Beer"
+    },
+    {
+      "title": "Danceteria",
+      "artist": "Madonna"
+    },
+    {
+      "title": "La Isla Bonita",
+      "artist": "Madonna"
+    },
+    {
+      "title": "Rude",
+      "artist": "Magic!"
+    },
+    {
+      "title": "Clavado En Un Bar",
+      "artist": "Mana"
+    },
+    {
+      "title": "En El Muelle De San Blas",
+      "artist": "Mana"
+    },
+    {
+      "title": "Eres Mi Religion",
+      "artist": "Mana"
+    },
+    {
+      "title": "Labios Compartidos",
+      "artist": "Mana"
+    },
+    {
+      "title": "Mariposa Traicionera",
+      "artist": "Mana"
+    },
+    {
+      "title": "Oye Mi Amor",
+      "artist": "Mana"
+    },
+    {
+      "title": "Rayando El Sol",
+      "artist": "Mana"
+    },
+    {
+      "title": "Vivir Sin Aire",
+      "artist": "Mana"
+    },
+    {
+      "title": "Pasodoble Te Quiero",
+      "artist": "Manolo Escobar"
+    },
+    {
+      "title": "Porompompero",
+      "artist": "Manolo Escobar"
+    },
+    {
+      "title": "Porompompero",
+      "artist": "Manolo Escobar"
+    },
+    {
+      "title": "Pájaros De Barro",
+      "artist": "Manolo Garcia"
+    },
+    {
+      "title": "Insurreccion",
+      "artist": "Manolo Garcia & Miguel Rios"
+    },
+    {
+      "title": "Insurreccion",
+      "artist": "Manolo Garcia & Miguel Rios"
+    },
+    {
+      "title": "Un Ramito De Violetas",
+      "artist": "Manzanita"
+    },
+    {
+      "title": "Valio La Pena (Versión Karaoke)",
+      "artist": "Marc Anthony"
+    },
+    {
+      "title": "Vivir Mi Vida",
+      "artist": "Marc Anthony"
+    },
+    {
+      "title": "La loca",
+      "artist": "María Conchita Alonso"
+    },
+    {
+      "title": "Cantame",
+      "artist": "Maria Del Monte"
+    },
+    {
+      "title": "La Flor De La Canela",
+      "artist": "Maria Dolores Pradera"
+    },
+    {
+      "title": "O Holy Night",
+      "artist": "Mariah Carey"
+    },
+    {
+      "title": "Valerie",
+      "artist": "Mark Ronson ft. Amy Winehouse"
+    },
+    {
+      "title": "Memories",
+      "artist": "Maroon 5"
+    },
+    {
+      "title": "FRIENDS",
+      "artist": "Marshmello, Anne Marie"
+    },
+    {
+      "title": "Julieta Venegas",
+      "artist": "Me Voy"
+    },
+    {
+      "title": "Bailando salsa",
+      "artist": "Mecano"
+    },
+    {
+      "title": "Eungenio Salvador Dali",
+      "artist": "Mecano"
+    },
+    {
+      "title": "Hijo De La Luna",
+      "artist": "Mecano"
+    },
+    {
+      "title": "Me Cole En Una Fiesta",
+      "artist": "Mecano"
+    },
+    {
+      "title": "Me cuesta tanto olvidarte",
+      "artist": "Mecano"
+    },
+    {
+      "title": "Mujer Contra Mujer",
+      "artist": "Mecano"
+    },
+    {
+      "title": "un año mas",
+      "artist": "Mecano"
+    },
+    {
+      "title": "All About That Bass",
+      "artist": "Meghan Trainor"
+    },
+    {
+      "title": "Dear Future Husband",
+      "artist": "Meghan Trainor"
+    },
+    {
+      "title": "Like I'm Gonna Lose You",
+      "artist": "Meghan Trainor ft. John Legend"
+    },
+    {
+      "title": "Dollhouse",
+      "artist": "Melanie Martinez"
+    },
+    {
+      "title": "A Whole New World",
+      "artist": "Mena Massoud, Naomi Scott"
+    },
+    {
+      "title": "Billie Jean",
+      "artist": "Michael Jackson"
+    },
+    {
+      "title": "Bienvenidos",
+      "artist": "Miguel Ríos"
+    },
+    {
+      "title": "Angels Like You",
+      "artist": "Miley Cyrus"
+    },
+    {
+      "title": "Flowers",
+      "artist": "Miley Cyrus"
+    },
+    {
+      "title": "Party In The USA",
+      "artist": "Miley Cyrus"
+    },
+    {
+      "title": "Party In The USA",
+      "artist": "Miley Cyrus"
+    },
+    {
+      "title": "The Climb",
+      "artist": "Miley Cyrus"
+    },
+    {
+      "title": "Wrecking Ball",
+      "artist": "Miley Cyrus"
+    },
+    {
+      "title": "Tómame o déjame",
+      "artist": "Mocedades"
+    },
+    {
+      "title": "Pantera En Libertad",
+      "artist": "Monica Naranjo"
+    },
+    {
+      "title": "Sobrevivire",
+      "artist": "Monica Naranjo"
+    },
+    {
+      "title": "Punto De Partida",
+      "artist": "Monica Naranjo & Rocio Jurado"
+    },
+    {
+      "title": "Como Te Atreves LETRA (INSTRUMENTAL KARAOKE) ISRC ES54I0328173",
+      "artist": "Morat"
+    },
+    {
+      "title": "Feeling Good",
+      "artist": "Muse"
+    },
+    {
+      "title": "La Chica De Ayer",
+      "artist": "Nacha Pop"
+    },
+    {
+      "title": "La Chica De Ayer",
+      "artist": "Nacha Pop"
+    },
+    {
+      "title": "Speechless",
+      "artist": "Naomi Scott"
+    },
+    {
+      "title": "Noches De Bohemia",
+      "artist": "Navajita Platea"
+    },
+    {
+      "title": "Laura No Esta",
+      "artist": "Nek"
+    },
+    {
+      "title": "En Que Estrella Estara",
+      "artist": "Nena Daconte"
+    },
+    {
+      "title": "Tenia Tanto Que Darte",
+      "artist": "Nena Daconte"
+    },
+    {
+      "title": "Super Bass",
+      "artist": "Nicki Minaj"
+    },
+    {
+      "title": "America America",
+      "artist": "Nino Bravo"
+    },
+    {
+      "title": "Esa será mi casa",
+      "artist": "Nino Bravo"
+    },
+    {
+      "title": "Libre",
+      "artist": "Nino Bravo"
+    },
+    {
+      "title": "Noelia",
+      "artist": "Nino Bravo"
+    },
+    {
+      "title": "Te Quiero Te Quiero",
+      "artist": "Nino Bravo"
+    },
+    {
+      "title": "Un Beso Y Una Flor",
+      "artist": "Nino Bravo"
+    },
+    {
+      "title": "Un Beso Y Una Flor",
+      "artist": "Nino Bravo"
+    },
+    {
+      "title": "Come As You Are",
+      "artist": "Nirvana"
+    },
+    {
+      "title": "Lithium",
+      "artist": "Nirvana"
+    },
+    {
+      "title": "Smells Like Teen Spirit",
+      "artist": "Nirvana"
+    },
+    {
+      "title": "Wonderwall",
+      "artist": "Oasis"
+    },
+    {
+      "title": "Wonderwall",
+      "artist": "Oasis"
+    },
+    {
+      "title": "Historias de Amor",
+      "artist": "OBK"
+    },
+    {
+      "title": "La Princesa De Mis Sueños",
+      "artist": "Obk"
+    },
+    {
+      "title": "Hopelessly Devoted To You from 'Grease",
+      "artist": "Olivia Newton John"
+    },
+    {
+      "title": "All I Want",
+      "artist": "Olivia Rodrigo"
+    },
+    {
+      "title": "drivers license",
+      "artist": "Olivia Rodrigo"
+    },
+    {
+      "title": "happier",
+      "artist": "Olivia Rodrigo"
+    },
+    {
+      "title": "honeybee",
+      "artist": "Olivia Rodrigo"
+    },
+    {
+      "title": "traitor",
+      "artist": "Olivia Rodrigo"
+    },
+    {
+      "title": "Night Changes",
+      "artist": "One Direction"
+    },
+    {
+      "title": "Counting Stars",
+      "artist": "OneRepublic"
+    },
+    {
+      "title": "Just Give Me A Reason",
+      "artist": "P!nk ft. Nate Ruess"
+    },
+    {
+      "title": "The Only Exception",
+      "artist": "Paramore"
+    },
+    {
+      "title": "El Ultimo Adios",
+      "artist": "Paulina Rubio"
+    },
+    {
+      "title": "Ni Rosas Ni Juguetes",
+      "artist": "Paulina Rubio"
+    },
+    {
+      "title": "Ni Una Sola Palabra",
+      "artist": "Paulina Rubio"
+    },
+    {
+      "title": "El Polvorete",
+      "artist": "Pepe Benavente"
+    },
+    {
+      "title": "West End Girls",
+      "artist": "Pet Shop Boys"
+    },
+    {
+      "title": "Olvídame y pega la vuelta",
+      "artist": "Pimpinela"
+    },
+    {
+      "title": "Bohemian Rhapsody",
+      "artist": "Queen"
+    },
+    {
+      "title": "Love Of My Life",
+      "artist": "Queen"
+    },
+    {
+      "title": "Under Pressure",
+      "artist": "Queen & David Bowie"
+    },
+    {
+      "title": "Alejandro Sanz",
+      "artist": "Quisiera Ser"
+    },
+    {
+      "title": "Enamorado De La Moda Juvenil",
+      "artist": "Radio Futura"
+    },
+    {
+      "title": "Veneno En La Piel",
+      "artist": "Radio Futura"
+    },
+    {
+      "title": "Creep",
+      "artist": "Radiohead"
+    },
+    {
+      "title": "Fiesta",
+      "artist": "Raffaella Carra"
+    },
+    {
+      "title": "La Fuerza Del Corazon",
+      "artist": "Raphael"
+    },
+    {
+      "title": "Mi Gran Noche",
+      "artist": "Raphael"
+    },
+    {
+      "title": "Yo Soy Aquel",
+      "artist": "Raphael"
+    },
+    {
+      "title": "Right Here Waiting",
+      "artist": "Richard Marx"
+    },
+    {
+      "title": "Never Gonna Give You Up",
+      "artist": "Rick Astley"
+    },
+    {
+      "title": "Livin' La Vida Loca",
+      "artist": "Ricky Martin"
+    },
+    {
+      "title": "Diamonds",
+      "artist": "Rihanna"
+    },
+    {
+      "title": "Stay",
+      "artist": "Rihanna"
+    },
+    {
+      "title": "Take A Bow",
+      "artist": "Rihanna"
+    },
+    {
+      "title": "Amor Eterno",
+      "artist": "Rocio Durcal"
+    },
+    {
+      "title": "Cartel de publicidad",
+      "artist": "Rocio Durcal"
+    },
+    {
+      "title": "Como tu mujer",
+      "artist": "Rocio Durcal"
+    },
+    {
+      "title": "Como Una Ola",
+      "artist": "Rocio Jurado"
+    },
+    {
+      "title": "Viva El Pasodoble",
+      "artist": "Rocio Jurado"
+    },
+    {
+      "title": "I Don't Want To Talk About It",
+      "artist": "Rod Stewart"
+    },
+    {
+      "title": "When You Say Nothing At All",
+      "artist": "Ronan Keating"
+    },
+    {
+      "title": "Que Bonito",
+      "artist": "Rosario Flores"
+    },
+    {
+      "title": "Rumbamania",
+      "artist": "Rumba Tres"
+    },
+    {
+      "title": "Escape (The Piña Colada Song)",
+      "artist": "Rupert Holmes"
+    },
+    {
+      "title": "Dandelions",
+      "artist": "Ruth B"
+    },
+    {
+      "title": "Lost Boy",
+      "artist": "Ruth B"
+    },
+    {
+      "title": "Rein Me In",
+      "artist": "Sam Fender, Olivia Dean"
+    },
+    {
+      "title": "I'm Not The Only One",
+      "artist": "Sam Smith"
+    },
+    {
+      "title": "Lay Me Down",
+      "artist": "Sam Smith"
+    },
+    {
+      "title": "Stay With Me",
+      "artist": "Sam Smith"
+    },
+    {
+      "title": "Too Good At Goodbyes",
+      "artist": "Sam Smith"
+    },
+    {
+      "title": "La Violetera",
+      "artist": "Sara Montiel"
+    },
+    {
+      "title": "Temperature",
+      "artist": "Sean Paul"
+    },
+    {
+      "title": "A Tontas Y A Locas LETRA (INSTRUMENTAL KARAOKE)",
+      "artist": "Seguridad Social"
+    },
+    {
+      "title": "Acuarela",
+      "artist": "Seguridad Social"
+    },
+    {
+      "title": "Comerranas",
+      "artist": "Seguridad Social"
+    },
+    {
+      "title": "Mi rumba tarumba",
+      "artist": "Seguridad Social"
+    },
+    {
+      "title": "Quiero tener tu presencia",
+      "artist": "Seguridad Social"
+    },
+    {
+      "title": "Esa chica es mía",
+      "artist": "Sergio Dalma"
+    },
+    {
+      "title": "Ciega Sordomuda",
+      "artist": "Shakira"
+    },
+    {
+      "title": "Donde estas corazón",
+      "artist": "Shakira"
+    },
+    {
+      "title": "La tortura",
+      "artist": "Shakira"
+    },
+    {
+      "title": "Waka Waka",
+      "artist": "Shakira"
+    },
+    {
+      "title": "Hips Don't Lie",
+      "artist": "Shakira feat. Wyclef Jean"
+    },
+    {
+      "title": "Dai Dai",
+      "artist": "Shakira, Burna Boy"
+    },
+    {
+      "title": "There's Nothing Holding Me Back",
+      "artist": "Shawn Mendes"
+    },
+    {
+      "title": "Treat You Better",
+      "artist": "Shawn Mendes"
+    },
+    {
+      "title": "Señorita",
+      "artist": "Shawn Mendes, Camila Cabello"
+    },
+    {
+      "title": "Chandelier",
+      "artist": "Sia"
+    },
+    {
+      "title": "Cheap Thrills",
+      "artist": "Sia"
+    },
+    {
+      "title": "Snowman",
+      "artist": "Sia"
+    },
+    {
+      "title": "Perfect",
+      "artist": "Simple Plan"
+    },
+    {
+      "title": "I Just Called To Say I Love You",
+      "artist": "Stevie Wonder"
+    },
+    {
+      "title": "Frank Sinatra",
+      "artist": "Strangers in the Night"
+    },
+    {
+      "title": "Elvis Crespo",
+      "artist": "Suavemente"
+    },
+    {
+      "title": "Enrique Iglesias",
+      "artist": "Súbeme la radio"
+    },
+    {
+      "title": "Dyango",
+      "artist": "Suspiros De España"
+    },
+    {
+      "title": "I See The Light",
+      "artist": "Tangled"
+    },
+    {
+      "title": "When Will My Life Begin",
+      "artist": "Tangled"
+    },
+    {
+      "title": "Back To December",
+      "artist": "Taylor Swift"
+    },
+    {
+      "title": "Blank Space (Backing Track) (1080p_25fps_H264-128kbit_AAC)",
+      "artist": "Taylor Swift"
+    },
+    {
+      "title": "Love Story (Backing Track) (1080p_25fps_H264-128kbit_AAC)",
+      "artist": "Taylor Swift"
+    },
+    {
+      "title": "Shake It Off",
+      "artist": "Taylor Swift"
+    },
+    {
+      "title": "You Belong With Me (Backing Track) (1080p_25fps_H264-128kbit_AAC)",
+      "artist": "Taylor Swift"
+    },
+    {
+      "title": "Here Comes The Sun",
+      "artist": "The Beatles"
+    },
+    {
+      "title": "Let It Be",
+      "artist": "The Beatles"
+    },
+    {
+      "title": "Wherever You Will Go",
+      "artist": "The Calling"
+    },
+    {
+      "title": "Don't Let Me Down",
+      "artist": "The Chainsmokers feat. Daya"
+    },
+    {
+      "title": "Closer",
+      "artist": "The Chainsmokers ft. Halsey"
+    },
+    {
+      "title": "Animal Instinct",
+      "artist": "The Cranberries"
+    },
+    {
+      "title": "Dreams",
+      "artist": "The Cranberries"
+    },
+    {
+      "title": "Linger",
+      "artist": "The Cranberries"
+    },
+    {
+      "title": "Ode To My Family",
+      "artist": "The Cranberries"
+    },
+    {
+      "title": "Promises",
+      "artist": "The Cranberries"
+    },
+    {
+      "title": "Zombie",
+      "artist": "The Cranberries"
+    },
+    {
+      "title": "Zombie",
+      "artist": "The Cranberries"
+    },
+    {
+      "title": "A Million Dreams",
+      "artist": "The Greatest Showman"
+    },
+    {
+      "title": "Never Enough",
+      "artist": "The Greatest Showman"
+    },
+    {
+      "title": "Rewrite The Stars",
+      "artist": "The Greatest Showman"
+    },
+    {
+      "title": "This Is Me",
+      "artist": "The Greatest Showman"
+    },
+    {
+      "title": "Part Of Your World",
+      "artist": "The Little Mermaid"
+    },
+    {
+      "title": "Sweater Weather",
+      "artist": "The Neighbourhood"
+    },
+    {
+      "title": "Every Breath You Take",
+      "artist": "The Police"
+    },
+    {
+      "title": "Unchained Melody",
+      "artist": "The Righteous Brothers"
+    },
+    {
+      "title": "The Man Who Can't Be Moved",
+      "artist": "The Script"
+    },
+    {
+      "title": "Eloise",
+      "artist": "Tino Casal"
+    },
+    {
+      "title": "DANCE MONKEY",
+      "artist": "TONES & I"
+    },
+    {
+      "title": "Dancing In The Moonlight",
+      "artist": "Toploader"
+    },
+    {
+      "title": "Guantanamera",
+      "artist": "Trini Lopez"
+    },
+    {
+      "title": "I Still Haven't Found What I'm Looking For",
+      "artist": "U2"
+    },
+    {
+      "title": "One",
+      "artist": "U2"
+    },
+    {
+      "title": "With or Without You",
+      "artist": "U2"
+    },
+    {
+      "title": "Red Red Wine",
+      "artist": "UB40"
+    },
+    {
+      "title": "Red Red Wine (2)",
+      "artist": "UB40"
+    },
+    {
+      "title": "Riptide",
+      "artist": "Vance Joy"
+    },
+    {
+      "title": "Mujeres Divinas",
+      "artist": "Vicente Fernández"
+    },
+    {
+      "title": "Aunque Mal Paguen Ellas",
+      "artist": "Vicente Fernandez, Roberto Carlos"
+    },
+    {
+      "title": "Ella (tu piel morena)",
+      "artist": "Viceversa"
+    },
+    {
+      "title": "SLICK",
+      "artist": "Victony"
+    },
+    {
+      "title": "My Love",
+      "artist": "Westlife"
+    },
+    {
+      "title": "Club Tropicana",
+      "artist": "Wham!"
+    },
+    {
+      "title": "Last Christmas",
+      "artist": "Wham!"
+    },
+    {
+      "title": "I Have Nothing",
+      "artist": "Whitney Houston"
+    },
+    {
+      "title": "I Wanna Dance With Somebody (Who Loves Me)",
+      "artist": "Whitney Houston"
+    },
+    {
+      "title": "I Will Always Love You",
+      "artist": "Whitney Houston"
+    },
+    {
+      "title": "One Moment In Time",
+      "artist": "Whitney Houston"
+    },
+    {
+      "title": "Saving All My Love For You",
+      "artist": "Whitney Houston"
+    },
+    {
+      "title": "The Greatest Love Of All",
+      "artist": "Whitney Houston"
+    },
+    {
+      "title": "El baile del perrit",
+      "artist": "Wilfrido Vargas"
+    },
+    {
+      "title": "Karaoke. Morat ft. Andrés Soler",
+      "artist": "Yo Contigo Tu Conmigo"
+    },
+    {
+      "title": "I Like You So Much, You'll Know It",
+      "artist": "Ysabelle"
+    },
+    {
+      "title": "Este Amor No Se Toca",
+      "artist": "Yuri"
+    },
+    {
+      "title": "Midnight Sun",
+      "artist": "Zara Larsson"
+    },
+    {
+      "title": "A Whole New World",
+      "artist": "ZAYN, Zhavia Ward"
+    }
+  ]
+}
