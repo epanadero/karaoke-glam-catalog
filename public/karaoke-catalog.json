@@ -1,12 +1,8 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-02T10:52:54.629Z",
-  "totalSongs": 694,
+  "generatedAt": "2026-11-02T11:05:04.469Z",
+  "totalSongs": 700,
   "songs": [
-    {
-      "title": ".kmm-temp-be2259a7-33da-453c-8b97-d71e16634a48",
-      "artist": ""
-    },
     {
       "title": "Here Without You",
       "artist": "3 Doors Down"
@@ -382,10 +378,6 @@
     {
       "title": "To Love Somebody",
       "artist": "BEE GEES"
-    },
-    {
-      "title": "(HD Karaoke)",
-      "artist": "Bee Gees"
     },
     {
       "title": "HOW DEEP IS YOUR LOVE",
@@ -804,10 +796,6 @@
       "artist": "Efecto Mariposa"
     },
     {
-      "title": "Por Quererte (Versión Karaoke)",
-      "artist": "Efecto Mariposa"
-    },
-    {
       "title": "No Me Crees",
       "artist": "Efecto Mariposa & Javier Ojeda"
     },
@@ -858,6 +846,10 @@
     {
       "title": "Querida milagros",
       "artist": "El ultimo de la fila"
+    },
+    {
+      "title": "A San Fernando",
+      "artist": "El Último de la Fila"
     },
     {
       "title": "Mr. Blue Sky",
@@ -1412,7 +1404,19 @@
       "artist": "Juanes"
     },
     {
+      "title": "Turbo Lover",
+      "artist": "Judas Priest"
+    },
+    {
       "title": "Eres Para Mi",
+      "artist": "Julieta Venegas"
+    },
+    {
+      "title": "Eres Para Mi",
+      "artist": "Julieta Venegas"
+    },
+    {
+      "title": "Limón y sal",
       "artist": "Julieta Venegas"
     },
     {
@@ -1780,6 +1784,10 @@
       "artist": "Luis Fonsi, Daddy Yankee ft. Justin Bieber"
     },
     {
+      "title": "Despacito",
+      "artist": "Luis Fonsi, Daddy Yankee ft. Justin Bieber"
+    },
+    {
       "title": "Hasta que me olvides",
       "artist": "Luis Miguel"
     },
@@ -1912,10 +1920,6 @@
       "artist": "Manzanita"
     },
     {
-      "title": "Valio La Pena (Versión Karaoke)",
-      "artist": "Marc Anthony"
-    },
-    {
       "title": "Vivir Mi Vida",
       "artist": "Marc Anthony"
     },
@@ -2029,6 +2033,10 @@
     },
     {
       "title": "Flowers",
+      "artist": "Miley Cyrus"
+    },
+    {
+      "title": "Party In The USA",
       "artist": "Miley Cyrus"
     },
     {
@@ -2188,8 +2196,16 @@
       "artist": "OneRepublic"
     },
     {
+      "title": "Corazon de neón",
+      "artist": "Orquesta Mondragon"
+    },
+    {
       "title": "Just Give Me A Reason",
       "artist": "P!nk ft. Nate Ruess"
+    },
+    {
+      "title": "Juntos",
+      "artist": "Paloma San Basilio"
     },
     {
       "title": "The Only Exception",
@@ -2290,6 +2306,10 @@
     {
       "title": "Fiesta",
       "artist": "Raffaella Carra"
+    },
+    {
+      "title": "Killing in the Name",
+      "artist": "Rage Against The Machine"
     },
     {
       "title": "La Fuerza Del Corazon",
@@ -2565,6 +2585,10 @@
     },
     {
       "title": "Promises",
+      "artist": "The Cranberries"
+    },
+    {
+      "title": "Zombie",
       "artist": "The Cranberries"
     },
     {
