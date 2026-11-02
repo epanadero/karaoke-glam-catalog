@@ -1,8 +1,12 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-10T15:51:54.012Z",
-  "totalSongs": 663,
+  "generatedAt": "2026-11-02T10:52:54.629Z",
+  "totalSongs": 694,
   "songs": [
+    {
+      "title": ".kmm-temp-be2259a7-33da-453c-8b97-d71e16634a48",
+      "artist": ""
+    },
     {
       "title": "Here Without You",
       "artist": "3 Doors Down"
@@ -30,6 +34,10 @@
     {
       "title": "Mamma Mia",
       "artist": "ABBA"
+    },
+    {
+      "title": "Back In Black",
+      "artist": "AC DC"
     },
     {
       "title": "Dirty Deeds Done Dirt Cheap",
@@ -90,6 +98,10 @@
     {
       "title": "Ni Tu Ni Nadie",
       "artist": "Alaska Y Dinarama"
+    },
+    {
+      "title": "Perlas Ensangrentadas",
+      "artist": "Alaska y Dinarama"
     },
     {
       "title": "Rey del Glam",
@@ -186,6 +198,10 @@
     {
       "title": "Sofia",
       "artist": "Alvaro Soler"
+    },
+    {
+      "title": "Miedo",
+      "artist": "Amaia"
     },
     {
       "title": "Como Hablar",
@@ -364,6 +380,38 @@
       "artist": "Bebe"
     },
     {
+      "title": "To Love Somebody",
+      "artist": "BEE GEES"
+    },
+    {
+      "title": "(HD Karaoke)",
+      "artist": "Bee Gees"
+    },
+    {
+      "title": "HOW DEEP IS YOUR LOVE",
+      "artist": "Bee Gees"
+    },
+    {
+      "title": "I STARTED A JOKE",
+      "artist": "Bee Gees"
+    },
+    {
+      "title": "MASSACHUSETTS",
+      "artist": "Bee Gees"
+    },
+    {
+      "title": "STAYING ALIVE",
+      "artist": "Bee Gees"
+    },
+    {
+      "title": "TOO MUCH HEAVEN",
+      "artist": "Bee Gees"
+    },
+    {
+      "title": "WORDS",
+      "artist": "Bee Gees"
+    },
+    {
       "title": "Stand By Me",
       "artist": "Ben E. King"
     },
@@ -396,6 +444,10 @@
       "artist": "Billie Eilish"
     },
     {
+      "title": "Rebel Yell",
+      "artist": "Billy Idol"
+    },
+    {
       "title": "Skinny Love",
       "artist": "Birdy"
     },
@@ -409,6 +461,26 @@
     },
     {
       "title": "Always",
+      "artist": "Bon Jovi"
+    },
+    {
+      "title": "Bed Of Roses",
+      "artist": "Bon Jovi"
+    },
+    {
+      "title": "It's My Life",
+      "artist": "Bon Jovi"
+    },
+    {
+      "title": "Livin' On A Prayer",
+      "artist": "Bon Jovi"
+    },
+    {
+      "title": "Wanted Dead Or Alive",
+      "artist": "Bon Jovi"
+    },
+    {
+      "title": "You Give Love A Bad Name",
       "artist": "Bon Jovi"
     },
     {
@@ -436,7 +508,7 @@
       "artist": "Camaron De La Isla"
     },
     {
-      "title": "Cuando Zarpa El Amo",
+      "title": "Cuando Zarpa El Amor",
       "artist": "Camela"
     },
     {
@@ -576,6 +648,10 @@
       "artist": "Cristian Castro"
     },
     {
+      "title": "Love Song",
+      "artist": "Cure"
+    },
+    {
       "title": "Best Part",
       "artist": "Daniel Caesar ft. H.E.R."
     },
@@ -638,6 +714,10 @@
     {
       "title": "Stone Cold",
       "artist": "Demi Lovato"
+    },
+    {
+      "title": "Pandilleros",
+      "artist": "Dinamita"
     },
     {
       "title": "Hot Stuff",
@@ -884,6 +964,18 @@
       "artist": "Evanescence"
     },
     {
+      "title": "Jesucristo Garcia",
+      "artist": "Extremoduro"
+    },
+    {
+      "title": "Salir",
+      "artist": "Extremoduro"
+    },
+    {
+      "title": "So Payaso",
+      "artist": "Extremoduro"
+    },
+    {
       "title": "Dramas Y Comedias",
       "artist": "Fangoria"
     },
@@ -1097,6 +1189,10 @@
     },
     {
       "title": "Entre Dos Tierras",
+      "artist": "Heroes Del Silencio"
+    },
+    {
+      "title": "La chispa adecuada",
       "artist": "Heroes Del Silencio"
     },
     {
@@ -1444,6 +1540,10 @@
       "artist": "La Oreja de Van Gogh"
     },
     {
+      "title": "La Reina Del Pop",
+      "artist": "La Oreja de Van Gogh"
+    },
+    {
       "title": "Puedes contar conmigo",
       "artist": "La Oreja de Van Gogh"
     },
@@ -1454,6 +1554,14 @@
     {
       "title": "Muñeca de trapo",
       "artist": "La oreja de Van Gogh"
+    },
+    {
+      "title": "No somos Nada",
+      "artist": "LA POLLA RECORDS"
+    },
+    {
+      "title": "salve",
+      "artist": "La polla records"
     },
     {
       "title": "Algo Mas",
@@ -1624,6 +1732,10 @@
       "artist": "Los Planetas"
     },
     {
+      "title": "Mescalina",
+      "artist": "Los Rebeldes"
+    },
+    {
       "title": "Todos Los Besos",
       "artist": "Los Rebujitos & El Reino De La Playa"
     },
@@ -1713,6 +1825,10 @@
     },
     {
       "title": "Magie Despierta",
+      "artist": "M-Clan"
+    },
+    {
+      "title": "Miedo",
       "artist": "M-Clan"
     },
     {
@@ -2456,6 +2572,10 @@
       "artist": "The Cranberries"
     },
     {
+      "title": "Friday I'm In Love",
+      "artist": "The Cure"
+    },
+    {
       "title": "A Million Dreams",
       "artist": "The Greatest Showman"
     },
@@ -2578,6 +2698,10 @@
     {
       "title": "Maldita Dulzura",
       "artist": "Vetusta Morla & Carla Morrison"
+    },
+    {
+      "title": "El Rey",
+      "artist": "Vicente Fernandez"
     },
     {
       "title": "Mujeres Divinas",
