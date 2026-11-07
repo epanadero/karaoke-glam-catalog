@@ -1,8 +1,12 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-02T11:05:04.469Z",
-  "totalSongs": 700,
+  "generatedAt": "2026-11-07T17:28:54.359Z",
+  "totalSongs": 752,
   "songs": [
+    {
+      "title": "La orquesta Mondragón- Tic Tac- Karaoke",
+      "artist": ""
+    },
     {
       "title": "Here Without You",
       "artist": "3 Doors Down"
@@ -78,6 +82,18 @@
     {
       "title": "Faded",
       "artist": "Alan Walker"
+    },
+    {
+      "title": "Hand In My Pocket",
+      "artist": "Alanis Morisette"
+    },
+    {
+      "title": "You Oughta Know",
+      "artist": "Alanis Morisette"
+    },
+    {
+      "title": "Head over Feet",
+      "artist": "Alanis Morissette"
     },
     {
       "title": "Ironic",
@@ -212,11 +228,19 @@
       "artist": "Amaral"
     },
     {
+      "title": "Kamikaze",
+      "artist": "Amaral"
+    },
+    {
       "title": "Marta Sebas Guille Y Los Demas",
       "artist": "Amaral"
     },
     {
       "title": "Moriría por vos",
+      "artist": "Amaral"
+    },
+    {
+      "title": "Perdóname",
       "artist": "Amaral"
     },
     {
@@ -380,6 +404,10 @@
       "artist": "BEE GEES"
     },
     {
+      "title": "(HD Karaoke)",
+      "artist": "Bee Gees"
+    },
+    {
       "title": "HOW DEEP IS YOUR LOVE",
       "artist": "Bee Gees"
     },
@@ -446,6 +474,22 @@
     {
       "title": "How You Like That",
       "artist": "BLACKPINK"
+    },
+    {
+      "title": "Call Me",
+      "artist": "Blondie"
+    },
+    {
+      "title": "Heart of Glass",
+      "artist": "Blondie"
+    },
+    {
+      "title": "One Way Or Another",
+      "artist": "Blondie"
+    },
+    {
+      "title": "The Tide Is High",
+      "artist": "Blondie"
     },
     {
       "title": "Three Little Birds",
@@ -610,6 +654,10 @@
     {
       "title": "Cuando Tu Vas",
       "artist": "Chenoa"
+    },
+    {
+      "title": "Wicked Game",
+      "artist": "Chris Isaak"
     },
     {
       "title": "Tennessee Whiskey",
@@ -796,6 +844,18 @@
       "artist": "Efecto Mariposa"
     },
     {
+      "title": "Por Quererte",
+      "artist": "Efecto Mariposa"
+    },
+    {
+      "title": "Por Quererte (Versión Karaoke)",
+      "artist": "Efecto Mariposa"
+    },
+    {
+      "title": "Si tu quisieras",
+      "artist": "Efecto Mariposa"
+    },
+    {
       "title": "No Me Crees",
       "artist": "Efecto Mariposa & Javier Ojeda"
     },
@@ -978,6 +1038,10 @@
     {
       "title": "Espectacular (2)",
       "artist": "Fangoria"
+    },
+    {
+      "title": "Siempre Estoy Soñando",
+      "artist": "Fito"
     },
     {
       "title": "Antes De Que Cuente Diez",
@@ -1168,6 +1232,10 @@
       "artist": "Guns N Roses"
     },
     {
+      "title": "Used To Love Her",
+      "artist": "Guns N' Roses"
+    },
+    {
       "title": "American Girls",
       "artist": "Harry Styles"
     },
@@ -1208,6 +1276,10 @@
       "artist": "Hoobastank"
     },
     {
+      "title": "Mad About You",
+      "artist": "Hooverphonic"
+    },
+    {
       "title": "Take Me To Church",
       "artist": "Hozier"
     },
@@ -1218,6 +1290,10 @@
     {
       "title": "Demons",
       "artist": "Imagine Dragons"
+    },
+    {
+      "title": "Junto al cenicero",
+      "artist": "Interferencias"
     },
     {
       "title": "Así fue",
@@ -1298,6 +1374,10 @@
     {
       "title": "Bang Bang",
       "artist": "Jessie J, Ariana Grande and Nicki Minaj"
+    },
+    {
+      "title": "I Love Rock 'N Roll",
+      "artist": "Joan Jett & The Blackhearts"
     },
     {
       "title": "Mediterraneo",
@@ -1664,6 +1744,26 @@
       "artist": "Lil Nas X ft. Billy Ray Cyrus"
     },
     {
+      "title": "In The End",
+      "artist": "Linkin Park"
+    },
+    {
+      "title": "Numb",
+      "artist": "Linkin Park"
+    },
+    {
+      "title": "Somewhere I belong",
+      "artist": "Linkin Park"
+    },
+    {
+      "title": "The Emptiness Machine",
+      "artist": "Linkin Park"
+    },
+    {
+      "title": "What I've Done",
+      "artist": "Linkin Park"
+    },
+    {
       "title": "Stuck On You",
       "artist": "Lionel Richie"
     },
@@ -1714,6 +1814,14 @@
     {
       "title": "Amigos Para Siempre",
       "artist": "Los Manolos"
+    },
+    {
+      "title": "Alta Tensión",
+      "artist": "Los Nodoyunas"
+    },
+    {
+      "title": "Antes de la muerte",
+      "artist": "Los Nodoyunas"
     },
     {
       "title": "Promesas que no valen nada",
@@ -1862,6 +1970,18 @@
     {
       "title": "Rude",
       "artist": "Magic!"
+    },
+    {
+      "title": "Buena Energia",
+      "artist": "Maldita Nerea"
+    },
+    {
+      "title": "El Secreto De Las Tortugas",
+      "artist": "Maldita Nerea"
+    },
+    {
+      "title": "Mira Dentro",
+      "artist": "Maldita Nerea"
     },
     {
       "title": "Clavado En Un Bar",
@@ -2084,7 +2204,15 @@
       "artist": "Muse"
     },
     {
+      "title": "Starlight",
+      "artist": "Muse"
+    },
+    {
       "title": "Time Is Running Out",
+      "artist": "Muse"
+    },
+    {
+      "title": "Uprising",
       "artist": "Muse"
     },
     {
@@ -2094,6 +2222,10 @@
     {
       "title": "Speechless",
       "artist": "Naomi Scott"
+    },
+    {
+      "title": "Torn",
+      "artist": "Natalie Imbruglia"
     },
     {
       "title": "Noches De Bohemia",
@@ -2152,6 +2284,14 @@
       "artist": "Nirvana"
     },
     {
+      "title": "Don't Speak",
+      "artist": "No Doubt"
+    },
+    {
+      "title": "Just A Girl",
+      "artist": "No Doubt"
+    },
+    {
       "title": "Wonderwall",
       "artist": "Oasis"
     },
@@ -2200,12 +2340,28 @@
       "artist": "Orquesta Mondragon"
     },
     {
+      "title": "Los Otros Son el Mal",
+      "artist": "Otras Yerbas"
+    },
+    {
+      "title": "Sin color",
+      "artist": "Otras Yerbas"
+    },
+    {
       "title": "Just Give Me A Reason",
       "artist": "P!nk ft. Nate Ruess"
     },
     {
       "title": "Juntos",
       "artist": "Paloma San Basilio"
+    },
+    {
+      "title": "Between Angels And Insects",
+      "artist": "Papa Roach"
+    },
+    {
+      "title": "Last Resort",
+      "artist": "Papa Roach"
     },
     {
       "title": "The Only Exception",
@@ -2230,6 +2386,10 @@
     {
       "title": "El Polvorete",
       "artist": "Pepe Benavente"
+    },
+    {
+      "title": "Maldita Nerea",
+      "artist": "Perdona Si Te Llamo Amor"
     },
     {
       "title": "West End Girls",
@@ -2332,6 +2492,10 @@
       "artist": "Rick Astley"
     },
     {
+      "title": "Never Gonna Give You Up",
+      "artist": "Rick Astley"
+    },
+    {
       "title": "Livin' La Vida Loca",
       "artist": "Ricky Martin"
     },
@@ -2378,6 +2542,22 @@
     {
       "title": "Que Bonito",
       "artist": "Rosario Flores"
+    },
+    {
+      "title": "Agradecido",
+      "artist": "Rosendo"
+    },
+    {
+      "title": "Flojos de Pantalón",
+      "artist": "Rosendo"
+    },
+    {
+      "title": "Loco por incordiar",
+      "artist": "Rosendo"
+    },
+    {
+      "title": "Masculino Singular",
+      "artist": "Rosendo"
     },
     {
       "title": "Rumbamania",
@@ -2508,12 +2688,24 @@
       "artist": "Simple Plan"
     },
     {
-      "title": "Muse",
-      "artist": "Starlight"
-    },
-    {
       "title": "I Just Called To Say I Love You",
       "artist": "Stevie Wonder"
+    },
+    {
+      "title": "Aerials",
+      "artist": "System Of A Down"
+    },
+    {
+      "title": "Chop Suey!",
+      "artist": "System Of A Down"
+    },
+    {
+      "title": "Lonely Day",
+      "artist": "System Of A Down"
+    },
+    {
+      "title": "Toxicity",
+      "artist": "System Of A Down"
     },
     {
       "title": "I See The Light",
@@ -2644,6 +2836,22 @@
       "artist": "The Script"
     },
     {
+      "title": "Animal I Have Become",
+      "artist": "Three Days Grace"
+    },
+    {
+      "title": "I Hate Everything About You",
+      "artist": "Three Days Grace"
+    },
+    {
+      "title": "Never Too Late",
+      "artist": "Three Days Grace"
+    },
+    {
+      "title": "Pain",
+      "artist": "Three Days Grace"
+    },
+    {
       "title": "Eloise",
       "artist": "Tino Casal"
     },
@@ -2688,16 +2896,16 @@
       "artist": "Ultraligera"
     },
     {
+      "title": "Matanza En El Hotel (2)",
+      "artist": "Ultraligera"
+    },
+    {
       "title": "Mirame",
       "artist": "Ultraligera"
     },
     {
       "title": "Tú no lo Ves",
       "artist": "Ultraligera"
-    },
-    {
-      "title": "Muse",
-      "artist": "Uprising"
     },
     {
       "title": "Riptide",
